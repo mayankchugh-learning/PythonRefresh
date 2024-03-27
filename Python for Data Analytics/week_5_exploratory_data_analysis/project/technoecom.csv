@@ -1,0 +1,508 @@
+customer_id,marital_status,occupation,education,warehouse_name,order_id,order_date,order_price,delivery_charges,coupon_discount,order_type,order_payment,is_expedited_delivery,distance_to_nearest_warehouse,customer_satisfaction,age,warehouse_area_type,warehouse_size,total_bill
+ID0571731474,Yes,Manager,Masters,Nickolson,ORD001041,13-06-2021,8725,66.86,15,COD,Cash,FALSE,0.7237,FALSE,24,Commercial,Medium,7483.11
+ID6167441063,Yes,Clerical,School,Thompson,ORD004361,02-06-2021,22220,53.8,15,COD,Cash,FALSE,1.4593,FALSE,30,Industrial,Large,18940.8
+ID6221450539,Yes,Lawyer,Masters,Nickolson,ORD004602,17-06-2021,10460,65.47,15,COD,Debit Card,TRUE,1.0229,TRUE,23,Commercial,Medium,8956.47
+ID2383211221,Yes,Manager,High School,Nickolson,ORD004848,13-06-2021,15070,79.13,5,COD,Debit Card,TRUE,1.0328,TRUE,28,Commercial,Medium,14395.63
+ID0248129431,No,Student,School,Nickolson,ORD005232,09-07-2021,5905,95.22,15,COD,Credit Card,TRUE,0.1227,TRUE,31,Commercial,Medium,5114.47
+ID2222040558,Yes,Clerical,High School,Thompson,ORD005286,21-07-2021,19560,82.44,10,COD,Cash,FALSE,1.4037,FALSE,30,Industrial,Large,17686.44
+ID5002592919,Yes,Doctor,PhD,Nickolson,ORD007249,21-05-2021,6535,60.64,15,COD,Credit Card,FALSE,1.088,FALSE,26,Commercial,Medium,5615.39
+ID0247018750,Yes,Blue Collar,High School,Thompson,ORD007904,29-05-2021,6865,96,15,COD,Cash,TRUE,1.3612,FALSE,24,Industrial,Large,5931.25
+ID3130999251,No,Blue Collar,School,Thompson,ORD008127,30-07-2021,6770,77.13,5,COD,Debit Card,FALSE,0.254,FALSE,31,Industrial,Large,6508.63
+ID2187983888,Yes,Professional,Bachelors,Nickolson,ORD010057,18-05-2021,3085,53.47,10,Prepaid,EMI,FALSE,1.3575,FALSE,27,Commercial,Medium,2829.97
+ID3516648756,Yes,Blue Collar,High School,Nickolson,ORD010677,18-07-2021,730,108.58,10,COD,Credit Card,TRUE,1.6767,TRUE,28,Commercial,Medium,765.58
+ID0363973195,Yes,Blue Collar,High School,Bakers,ORD010913,01-06-2021,14175,55.71,10,Prepaid,EMI,FALSE,94.9734,FALSE,27,Residential,Small,12813.21
+ID6167417972,Yes,Blue Collar,High School,Thompson,ORD014742,29-05-2021,15130,66.9,10,Prepaid,Digital Wallet,FALSE,1.0975,FALSE,30,Industrial,Large,13683.9
+ID3072718448,Yes,Professional,Bachelors,Nickolson,ORD015029,09-05-2021,2455,77.02,10,,Digital Wallet,TRUE,0.7795,FALSE,24,Commercial,Medium,2286.52
+ID4520380451,Yes,Professional,Masters,Thompson,ORD015196,07-06-2021,9500,76.79,5,Prepaid,EMI,TRUE,0.5443,TRUE,31,Industrial,Large,9101.79
+ID3281126642,No,Manager,Masters,Thompson,ORD016018,03-07-2021,19165,71.34,25,Prepaid,Digital Wallet,FALSE,0.2703,FALSE,26,Industrial,Large,14445.09
+ID0554206049,No,Home Maker,Bachelors,Nickolson,ORD016275,25-05-2021,13520,73.65,0,,EMI,FALSE,0.9538,FALSE,30,Commercial,Medium,13593.65
+ID6167254907,Yes,Doctor,PhD,Thompson,ORD016609,06-07-2021,12755,107.36,5,COD,Cash,TRUE,1.3928,FALSE,28,Industrial,Large,12224.61
+ID0207093574,No,Student,High School,Nickolson,ORD016841,18-07-2021,29470,59.68,15,,Digital Wallet,FALSE,0.8763,TRUE,28,Commercial,Medium,25109.18
+ID6282174092,No,Blue-Collar,School,Thompson,ORD017212,08-07-2021,11400,110.2,10,,Digital Wallet,TRUE,1.5416,TRUE,32,Industrial,Large,10370.2
+ID4520380533,No,Clerical,School,Nickolson,ORD019224,05-05-2021,24800,57.61,15,COD,Credit Card,FALSE,0.8571,FALSE,31,Commercial,Medium,21137.61
+ID0052510917,No,Student,High School,Bakers,ORD020395,01-06-2021,17630,65.7,15,Prepaid,EMI,FALSE,1.157,FALSE,31,Residential,Small,15051.2
+ID2868682188,Yes,Lawyer,Masters,Thompson,ORD021461,28-05-2021,19665,78.85,25,Prepaid,EMI,TRUE,0.7385,TRUE,29,Industrial,Large,14827.6
+ID0472236185,No,Lawyer,Masters,Nickolson,ORD021509,22-06-2021,15005,77.98,10,,Digital Wallet,TRUE,0.8296,TRUE,32,Commercial,Medium,13582.48
+ID1492169258,No,Manager,Masters,Nickolson,ORD021786,22-07-2021,22540,72.88,15,Prepaid,EMI,FALSE,0.3851,FALSE,25,Commercial,Medium,19231.88
+ID6167413278,No,Blue Collar,High School,Nickolson,ORD022239,13-07-2021,30140,100.55,15,,Credit Card,TRUE,0.7519,FALSE,26,Commercial,Medium,25719.55
+ID0202736642,Yes,Manager,Bachelors,Thompson,ORD023715,20-07-2021,8995,58.32,15,Prepaid,EMI,FALSE,0.4934,FALSE,29,Industrial,Large,7704.07
+ID0664378464,Yes,Professional,High School,Nickolson,ORD024391,26-07-2021,7490,96.49,25,COD,Cash,TRUE,0.2036,FALSE,32,Commercial,Medium,5713.99
+ID2451238134,Yes,Lawyer,Masters,Nickolson,ORD024972,03-05-2021,8995,68.83,10,Prepaid,Digital Wallet,FALSE,1.4652,FALSE,25,Commercial,Medium,8164.33
+ID6167417926,Yes,Lawyer,Masters,Thompson,ORD025094,17-05-2021,6810,78.96,10,COD,Debit Card,FALSE,1.4074,FALSE,26,Industrial,Large,6207.96
+ID0579391891,No,Home Maker,PhD,Nickolson,ORD026546,10-06-2021,5030,79.89,10,,Digital Wallet,TRUE,1.3191,TRUE,31,Commercial,Medium,4606.89
+ID0283255338,Yes,Manager,High School,Bakers,ORD026682,05-05-2021,7830,70.74,0,COD,Cash,TRUE,2.5592,FALSE,31,Residential,Small,7900.74
+ID2455223905,No,Clerical,High School,Thompson,ORD026756,16-07-2021,23900,75.41,25,Prepaid,EMI,FALSE,0.6211,FALSE,22,Industrial,Large,18000.41
+ID2190564628,No,Lawyer,Masters,Nickolson,ORD027740,04-07-2021,17070,104.42,10,,Digital Wallet,TRUE,1.0587,TRUE,26,Commercial,Medium,15467.42
+ID4716795173,No,Clerical,High School,Thompson,ORD027780,08-07-2021,7090,85.48,10,Prepaid,,TRUE,0.5841,TRUE,26,Industrial,Large,6466.48
+ID1888086809,No,Blue Collar,Bachelors,Thompson,ORD028403,22-06-2021,9950,76.41,25,COD,Debit Card,TRUE,0.9131,TRUE,27,Industrial,Large,7538.91
+ID1594632498,No,Manager,Masters,Thompson,ORD028604,14-05-2021,20860,80.93,15,COD,Cash,TRUE,0.845,FALSE,24,Industrial,Large,17811.93
+ID0304186956,Yes,Professional,Bachelors,Bakers,ORD028755,28-06-2021,37150,65.32,10,Prepaid,,TRUE,1.2762,TRUE,29,Residential,Small,33500.32
+ID4996764096,No,Professional,Masters,Thompson,ORD029585,13-05-2021,14000,98.3,25,Prepaid,Digital Wallet,TRUE,1.371,TRUE,27,Industrial,Large,10598.3
+ID4028046142,Yes,Student,Bachelors,Thompson,ORD030513,31-05-2021,16940,61.75,15,Prepaid,Digital Wallet,TRUE,0.7462,TRUE,27,Industrial,Large,14460.75
+ID0703556755,No,Home Maker,Masters,Thompson,ORD032042,08-07-2021,5740,68.3,10,COD,Credit Card,FALSE,1.8197,TRUE,28,Industrial,Large,5234.3
+ID0411688745,No,Professional,Masters,Thompson,ORD032894,20-06-2021,9360,57.93,15,COD,,TRUE,0.3096,TRUE,24,Industrial,Large,8013.93
+ID2347007247,No,Lawyer,Masters,Thompson,ORD033121,24-06-2021,20745,67.67,10,COD,,FALSE,1.2259,FALSE,30,Industrial,Large,18738.17
+ID5402876165,Yes,Lawyer,Masters,Bakers,ORD034351,29-05-2021,25370,66.41,10,COD,Credit Card,FALSE,0.9154,FALSE,31,Residential,Small,22899.41
+ID0778943161,Yes,Clerical,High School,Bakers,ORD034800,17-06-2021,31895,78.25,0,COD,,TRUE,1.1919,FALSE,25,Residential,Small,31973.25
+ID0495761820,No,Home Maker,High School,Nickolson,ORD035930,25-05-2021,18960,77.8,10,COD,Debit Card,TRUE,0.8975,TRUE,30,Commercial,Medium,17141.8
+ID0130015098,No,Clerical,School,Nickolson,ORD036056,30-06-2021,14810,80.69,25,,,TRUE,1.6104,TRUE,31,Commercial,Medium,11188.19
+ID0580161464,Yes,Blue Collar,School,Nickolson,ORD036597,29-07-2021,8670,82.93,0,COD,Debit Card,FALSE,1.6657,FALSE,23,Commercial,Medium,8752.93
+ID0571731118,No,Student,School,Nickolson,ORD037011,07-07-2021,18465,102.31,0,COD,Credit Card,TRUE,0.5736,TRUE,27,Commercial,Medium,18567.31
+ID4418535313,No,Professional,Bachelors,Bakers,ORD039111,17-05-2021,10820,64.03,10,COD,,FALSE,1.3392,FALSE,29,Residential,Small,9802.03
+ID1479897546,No,Professional,Bachelors,Bakers,ORD039664,08-07-2021,7535,105.86,15,Prepaid,Digital Wallet,TRUE,1.1225,TRUE,26,Residential,Small,6510.61
+ID6212705501,Yes,Professional,High School,Nickolson,ORD042766,16-07-2021,20510,100.72,10,Prepaid,Digital Wallet,TRUE,0.7686,TRUE,31,Commercial,Medium,18559.72
+ID6212685642,No,Professional,Bachelors,Nickolson,ORD043067,29-07-2021,24400,72.67,15,Prepaid,Digital Wallet,FALSE,0.4457,FALSE,26,Commercial,Medium,20812.67
+ID0746908734,No,Student,School,Thompson,ORD043450,24-05-2021,2910,68.01,10,Prepaid,,FALSE,1.7582,FALSE,24,Industrial,Large,2687.01
+ID0767585458,Yes,Manager,Bachelors,Nickolson,ORD044505,01-06-2021,20040,77.09,25,Prepaid,Digital Wallet,TRUE,0.798,TRUE,23,Commercial,Medium,15107.09
+ID1492149374,No,Blue Collar,Bachelors,Bakers,ORD047163,06-05-2021,8790,,15,COD,Credit Card,FALSE,0.7925,FALSE,30,Residential,Small,7543.51
+ID4061053436,No,Student,Bachelors,Nickolson,ORD048045,19-05-2021,10325,,15,Prepaid,Digital Wallet,TRUE,1.3732,TRUE,23,Commercial,Medium,8859.03
+ID4544035096,No,Blue Collar,High School,Thompson,ORD049313,21-07-2021,7200,,15,COD,Credit Card,FALSE,0.7621,FALSE,25,Industrial,Large,6180.64
+ID0527842694,Yes,Manager,Masters,Thompson,ORD049427,04-07-2021,24980,,25,Prepaid,,TRUE,0.9787,TRUE,27,Industrial,Large,18815.56
+ID0250774457,No,Manager,Masters,Bakers,ORD050839,06-07-2021,24360,,10,Prepaid,Digital Wallet,TRUE,1.132,TRUE,23,Residential,Small,22020.69
+ID4976805932,No,Blue Collar,Bachelors,Nickolson,ORD051005,01-05-2021,4405,69.62,15,Prepaid,Digital Wallet,FALSE,0.4436,FALSE,31,Commercial,Medium,3813.87
+ID6245731028,Yes,Clerical,School,Thompson,ORD051670,21-06-2021,26845,68.49,15,COD,Credit Card,FALSE,1.366,FALSE,29,Industrial,Large,22886.74
+ID0129952519,No,Manager,Bachelors,Thompson,ORD051673,02-06-2021,6630,51.2,10,Prepaid,Digital Wallet,FALSE,1.4214,FALSE,27,Industrial,Large,6018.2
+ID4442505589,No,Student,School,Nickolson,ORD052585,25-06-2021,0,78.28,0,COD,Credit Card,TRUE,0.9992,TRUE,32,Commercial,Medium,78.28
+ID4418536063,Yes,Clerical,?,Nickolson,ORD053558,24-06-2021,8670,75.78,10,Prepaid,Digital Wallet,TRUE,0.782,TRUE,26,Commercial,Medium,7878.78
+ID1288940365,No,Manager,PhD,Thompson,ORD053567,14-07-2021,22620,76.14,15,Prepaid,Digital Wallet,FALSE,0.6611,FALSE,28,Industrial,Large,19303.14
+ID0589421007,No,Blue Collar,High School,Bakers,ORD056609,25-07-2021,20660,77.33,15,COD,Debit Card,FALSE,1.2285,FALSE,24,Residential,Small,17638.33
+ID2189273817,No,Blue-Collar,School,Thompson,ORD057375,11-05-2021,18460,93.52,25,COD,,TRUE,0.9098,FALSE,26,Industrial,Large,13938.52
+ID4520380523,Yes,Professional,High School,Bakers,ORD057456,06-05-2021,653959,66.18,15,Prepaid,Digital Wallet,FALSE,0.1581,FALSE,27,Residential,Small,555931.33
+ID0287630692,No,Clerical,Bachelors,Bakers,ORD057521,05-06-2021,11230,46.89,10,COD,Debit Card,FALSE,0.4345,FALSE,27,Residential,Small,10153.89
+ID2207661056,No,Home Maker,High School,Nickolson,ORD058244,10-06-2021,21350,73.14,15,COD,Credit Card,TRUE,0.3065,TRUE,29,Commercial,Medium,18220.64
+ID0282854607,Yes,Professional,PhD,Nickolson,ORD058255,07-07-2021,4630,76.93,0,,Credit Card,FALSE,0.8195,FALSE,26,Commercial,Medium,4706.93
+ID3218226982,No,Manager,Masters,Nickolson,ORD058920,04-06-2021,9465,70.01,15,COD,Debit Card,FALSE,1.4665,FALSE,26,Commercial,Medium,8115.26
+ID0452381262,Yes,Blue Collar,School,Bakers,ORD059126,28-06-2021,3552,72.82,10,Prepaid,,TRUE,0.1753,TRUE,27,Residential,Small,3269.62
+ID0310957682,Yes,Home Maker,School,Thompson,ORD059963,10-05-2021,12510,70.02,10,Prepaid,Digital Wallet,FALSE,1.7249,FALSE,29,Industrial,Large,11329.02
+ID0710001161,Yes,Student,High School,Nickolson,ORD060602,26-05-2021,2885,63.11,25,Prepaid,Digital Wallet,FALSE,1.462,FALSE,29,Commercial,Medium,2226.86
+ID1404218659,Yes,Manager,Bachelors,Bakers,ORD061084,24-07-2021,24210,58.59,10,COD,Credit Card,FALSE,0.2276,FALSE,31,Residential,Small,21847.59
+ID0361770819,Yes,Clerical,?,Thompson,ORD063307,14-07-2021,2605,85.06,0,COD,,FALSE,1.8281,FALSE,27,Industrial,Large,2690.06
+ID0361268957,No,Blue Collar,High School,Thompson,ORD063814,08-06-2021,21190,66.49,15,COD,,FALSE,1.0325,FALSE,23,Industrial,Large,18077.99
+ID3924911403,Yes,Lawyer,Masters,Thompson,ORD064801,23-07-2021,13430,85.63,0,COD,,TRUE,0.4,FALSE,25,Industrial,Large,13515.63
+ID1833115014,No,Clerical,High School,Thompson,ORD065457,28-05-2021,7725,94.19,25,Prepaid,EMI,TRUE,0.8447,TRUE,28,Industrial,Large,5887.94
+ID4516157159,Yes,Manager,High School,Thompson,ORD065661,16-07-2021,22520,81.36,15,COD,Debit Card,FALSE,1.4937,TRUE,30,Industrial,Large,19223.36
+ID0588197264,Yes,Clerical,School,Bakers,ORD066333,07-06-2021,18295,79.5,10,Prepaid,EMI,TRUE,1.3,TRUE,25,Residential,Small,16545
+ID0493873181,No,Doctor,PhD,Thompson,ORD067226,21-07-2021,11570,91.79,10,Prepaid,Digital Wallet,FALSE,2.7391,FALSE,22,Industrial,Large,10504.79
+ID0299024277,No,Student,School,Thompson,ORD068250,25-05-2021,15545,58.15,25,COD,Cash,FALSE,0.8486,FALSE,26,Industrial,Large,11716.9
+ID6167440982,No,Blue Collar,Bachelors,Nickolson,ORD068296,24-07-2021,16130,98.5,10,COD,Debit Card,TRUE,0.5256,TRUE,31,Commercial,Medium,14615.5
+ID6167231018,No,Clerical,,Nickolson,ORD069995,02-06-2021,12210,77.24,0,COD,,TRUE,0.9855,TRUE,26,Commercial,Medium,12287.24
+ID0227316137,Yes,Student,,Thompson,ORD070810,23-05-2021,14275,77.18,15,COD,,FALSE,1.0299,FALSE,25,Industrial,Large,12210.93
+ID0145261554,Yes,Lawyer,,Thompson,ORD071953,25-05-2021,12920,66.96,25,COD,,FALSE,1.0133,FALSE,30,Industrial,Large,9756.96
+ID0361229947,Yes,Professional,,Nickolson,ORD072308,23-05-2021,1010,62.3,10,Prepaid,EMI,FALSE,0.1078,FALSE,26,Commercial,Medium,971.3
+ID1594632456,Yes,Student,,Thompson,ORD072312,12-06-2021,7960,52.28,15,Prepaid,EMI,FALSE,1.3043,FALSE,23,Industrial,Large,6818.28
+ID2948774564,Yes,Professional,,Nickolson,ORD073993,17-07-2021,22970,85.48,10,COD,Credit Card,FALSE,1.6932,TRUE,29,Commercial,Medium,20758.48
+ID0294625076,Yes,Lawyer,,Thompson,ORD074888,14-07-2021,8240,83.26,25,Prepaid,Digital Wallet,FALSE,1.7901,FALSE,28,Industrial,Large,6263.26
+ID0774517121,Yes,Manager,,Thompson,ORD074913,29-05-2021,20535,83.99,15,COD,Cash,TRUE,1.4107,FALSE,30,Industrial,Large,17538.74
+ID0441996111,No,Doctor,,Thompson,ORD075922,01-05-2021,6555,64.09,25,COD,Cash,TRUE,0.984,TRUE,29,Industrial,Large,4980.34
+ID0349920091,No,Clerical,,Nickolson,ORD075963,03-06-2021,5210,62.58,25,COD,Credit Card,FALSE,0.3813,FALSE,28,Commercial,Medium,3970.08
+ID1463620435,No,Lawyer,Masters,Nickolson,ORD076632,04-07-2021,4415,75.22,0,COD,Credit Card,FALSE,0.8192,FALSE,22,Commercial,Medium,4490.22
+ID4735836855,Yes,Clerical,Bachelors,Bakers,ORD077215,17-06-2021,7110,81.55,0,COD,Debit Card,TRUE,1.1731,TRUE,31,Residential,Small,7191.55
+ID6231506320,No,Blue Collar,High School,Nickolson,ORD077302,02-06-2021,8085,77.8,15,Prepaid,Digital Wallet,TRUE,0.8885,TRUE,23,Commercial,Medium,6950.05
+ID3094966837,No,Manager,Bachelors,Thompson,ORD077818,09-07-2021,17740,91.08,10,Prepaid,Digital Wallet,TRUE,1.4372,FALSE,28,Industrial,Large,16057.08
+ID1132069624,No,Clerical,High School,Thompson,ORD078283,10-07-2021,5115,91.19,5,COD,Credit Card,TRUE,1.4086,TRUE,22,Industrial,Large,4950.44
+ID2189358918,Yes,Clerical,School,Nickolson,ORD079320,19-07-2021,16490,106.98,0,Prepaid,EMI,TRUE,1.4368,TRUE,30,Commercial,Medium,16596.98
+ID0579502234,Yes,Manager,PhD,Bakers,ORD080001,04-06-2021,9060,55.98,10,,Digital Wallet,FALSE,1.6529,TRUE,29,Residential,Small,8209.98
+ID2086406859,No,Student,School,Thompson,ORD080574,06-06-2021,7200,65.82,10,COD,Credit Card,FALSE,0.9544,FALSE,26,Industrial,Large,6545.82
+ID4238873970,No,Professional,Bachelors,Nickolson,ORD082002,03-07-2021,6200,73.85,5,COD,Credit Card,FALSE,0.9223,FALSE,30,Commercial,Medium,5963.85
+ID0844489306,No,Manager,PhD,Bakers,ORD083728,16-07-2021,9865,112.04,0,Prepaid,EMI,TRUE,2.2057,TRUE,28,Residential,Small,9977.04
+ID6167413266,Yes,Home Maker,High School,Bakers,ORD085447,01-06-2021,22370,64.62,15,COD,Debit Card,TRUE,0.6277,TRUE,30,Residential,Small,19079.12
+ID0310729984,No,Professional,Bachelors,Nickolson,ORD086060,24-05-2021,22120,62.29,10,Prepaid,EMI,TRUE,0.3711,TRUE,27,Commercial,Medium,19970.29
+ID2318333325,No,Manager,Masters,Thompson,ORD086444,01-06-2021,8995,66.15,10,Prepaid,Digital Wallet,FALSE,1.296,FALSE,23,Industrial,Large,8161.65
+ID0591259275,No,Lawyer,Masters,Bakers,ORD086903,11-07-2021,22650,79.74,15,Prepaid,EMI,FALSE,1.4087,FALSE,23,Residential,Small,19332.24
+ID0252588997,No,Home Maker,School,Thompson,ORD088885,08-06-2021,11130,66.28,25,Prepaid,Digital Wallet,TRUE,0.9168,TRUE,25,Industrial,Large,8413.78
+ID0036825302,Yes,Student,High School,Nickolson,ORD089655,06-05-2021,13820,105.47,0,COD,Cash,TRUE,1.9364,FALSE,24,Commercial,Medium,13925.47
+ID5257193650,Yes,Home Maker,Bachelors,Nickolson,ORD089966,30-07-2021,26625,98.37,5,COD,Credit Card,TRUE,0.39,TRUE,27,Commercial,Medium,25392.12
+ID2810324704,Yes,Student,Bachelors,Nickolson,ORD092009,17-05-2021,3410,83.28,25,Prepaid,Digital Wallet,TRUE,1.7546,TRUE,32,Commercial,Medium,2640.78
+ID0361269278,Yes,Blue Collar,School,Bakers,ORD094945,04-05-2021,27810,0,15,COD,Cash,TRUE,2.3926,TRUE,29,Residential,Small,23638.5
+ID1404234339,Yes,Professional,Masters,Thompson,ORD098336,16-05-2021,13755,67.01,10,COD,Cash,FALSE,1.0176,FALSE,26,Industrial,Large,12446.51
+ID1463620434,No,Manager,PhD,Thompson,ORD103075,23-07-2021,18200,78.24,10,Prepaid,EMI,FALSE,1.0752,FALSE,25,Industrial,Large,16458.24
+ID0844475924,Yes,Professional,High School,Thompson,ORD103199,21-05-2021,5890,78.13,10,Prepaid,Digital Wallet,FALSE,1.2283,FALSE,30,Industrial,Large,5379.13
+ID1725216340,No,Professional,High School,Nickolson,ORD103709,29-06-2021,7050,66.21,25,Prepaid,Digital Wallet,FALSE,1.2091,FALSE,26,Commercial,Medium,5353.71
+ID4061053456,Yes,Blue Collar,High School,Nickolson,ORD104003,23-05-2021,15070,52.92,15,COD,Cash,FALSE,1.4507,FALSE,30,Commercial,Medium,12862.42
+ID0723965013,No,Manager,High School,Nickolson,ORD104032,09-07-2021,9145,75.54,25,Prepaid,Credit Card,FALSE,0.5867,FALSE,30,Commercial,Medium,6934.29
+ID0844410211,Yes,Blue Collar,High School,Nickolson,ORD106414,28-07-2021,2610,104.71,0,COD,Credit Card,TRUE,1.3054,TRUE,31,Commercial,Medium,2714.71
+ID0207093524,No,Lawyer,Masters,Nickolson,ORD108392,26-07-2021,5910,108.54,15,Prepaid,Digital Wallet,TRUE,1.5083,FALSE,26,Commercial,Medium,5132.04
+ID0419481490,No,Lawyer,Masters,Nickolson,ORD109308,21-06-2021,8135,76.86,0,COD,Cash,TRUE,0.6583,FALSE,27,Commercial,Medium,8211.86
+ID0767752599,No,Clerical,Bachelors,Thompson,ORD109384,27-06-2021,10520,46.73,15,,Digital Wallet,FALSE,0.5416,TRUE,32,Industrial,Large,8988.73
+ID0361770719,Yes,Professional,Bachelors,Thompson,ORD110606,04-06-2021,22310,66.11,15,COD,Cash,FALSE,0.9559,FALSE,28,Industrial,Large,19029.61
+ID0126934535,Yes,Home Maker,Bachelors,Thompson,ORD112722,13-07-2021,6780,,15,Prepaid,Digital Wallet,TRUE,1.5201,TRUE,24,Industrial,Large,5870.48
+ID0247417082,Yes,Home Maker,Bachelors,Thompson,ORD113085,17-05-2021,2757,84.54,5,Prepaid,Debit Card,FALSE,1.7862,FALSE,23,Industrial,Large,2703.69
+ID0702351342,Yes,Blue Collar,High School,Thompson,ORD113670,16-07-2021,8985,101.65,15,Prepaid,Digital Wallet,TRUE,0.8617,TRUE,23,Industrial,Large,7738.9
+ID1479930106,No,Home Maker,High School,Bakers,ORD113908,22-07-2021,16280,79.35,5,Prepaid,Credit Card,FALSE,1.904,FALSE,22,Residential,Small,15545.35
+ID0634783576,No,Clerical,High School,Thompson,ORD115766,02-06-2021,25665,67.12,25,COD,Cash,FALSE,1.2617,FALSE,32,Industrial,Large,19315.87
+ID0026051948,Yes,Clerical,School,Thompson,ORD116440,19-07-2021,947691,90.82,10,COD,Debit Card,TRUE,0.4187,TRUE,26,Industrial,Large,853012.72
+ID4326586172,Yes,Home Maker,Bachelors,Nickolson,ORD118137,15-05-2021,15070,72.28,25,Prepaid,Credit Card,FALSE,0.7438,FALSE,31,Commercial,Medium,11374.78
+ID0767737648,Yes,Professional,Bachelors,Thompson,ORD118905,16-07-2021,11090,98.73,0,COD,Cash,TRUE,0.4343,FALSE,25,Industrial,Large,11188.73
+ID2143829886,Yes,Blue Collar,High School,Nickolson,ORD121712,07-05-2021,5630,68.55,15,Prepaid,Digital Wallet,FALSE,0.4187,FALSE,31,Commercial,Medium,4854.05
+ID0387153048,Yes,Clerical,High School,Bakers,ORD122150,15-05-2021,3710,87.61,15,COD,Cash,TRUE,1.7261,FALSE,27,Residential,Small,3241.11
+ID0572005110,No,Blue Collar,High School,Thompson,ORD122655,14-06-2021,655164,81.7,10,COD,Credit Card,TRUE,1.6176,TRUE,24,Industrial,Large,589729.3
+ID0780913213,Yes,Home Maker,Bachelors,Bakers,ORD124286,25-07-2021,12395,112.42,25,COD,Cash,TRUE,2.0038,TRUE,30,Residential,Small,9408.67
+ID2189161536,No,Professional,Bachelors,Thompson,ORD124395,14-05-2021,19010,94.75,0,COD,Cash,TRUE,0.9509,TRUE,27,Industrial,Large,19104.75
+ID0577518129,Yes,Blue-Collar,School,Thompson,ORD124413,03-06-2021,15800,61.64,10,COD,Cash,FALSE,0.1459,FALSE,30,Industrial,Large,14281.64
+ID2020813862,Yes,Clerical,School,Thompson,ORD127141,13-05-2021,69685,92.7,0,Prepaid,EMI,TRUE,0.9475,TRUE,28,Industrial,Large,69777.7
+ID2384157684,Yes,Professional,Masters,Nickolson,ORD127153,21-06-2021,20300,63.68,10,COD,Cash,FALSE,0.154,FALSE,23,Commercial,Medium,18333.68
+ID4313862241,Yes,Blue Collar,High School,Thompson,ORD127881,30-07-2021,7360,107.35,25,Prepaid,Digital Wallet,TRUE,1.5854,FALSE,25,Industrial,Large,5627.35
+ID0581782794,Yes,Blue Collar,High School,Thompson,ORD128538,09-05-2021,2600,81.84,15,Prepaid,EMI,TRUE,1.0176,FALSE,31,Industrial,Large,2291.84
+ID0298045612,Yes,Lawyer,Masters,Nickolson,ORD129378,06-05-2021,8125,80.74,10,COD,Debit Card,TRUE,0.9127,TRUE,24,Commercial,Medium,7393.24
+ID0576879097,No,Professional,Bachelors,Thompson,ORD129529,09-06-2021,9250,64.23,15,Prepaid,EMI,FALSE,0.4448,FALSE,32,Industrial,Large,7926.73
+ID0233270890,Yes,Professional,Bachelors,Thompson,ORD130025,02-07-2021,98614,98.48,15,COD,Credit Card,TRUE,0.6495,TRUE,23,Industrial,Large,83920.38
+ID0387153095,Yes,Home Maker,School,Nickolson,ORD130410,16-06-2021,9070,75.96,0,COD,Cash,TRUE,0.6694,TRUE,26,Commercial,Medium,9145.96
+ID0591427998,Yes,Lawyer,Masters,Thompson,ORD131352,10-05-2021,7760,76.34,5,COD,Cash,TRUE,0.1702,TRUE,24,Industrial,Large,7448.34
+ID0304536850,Yes,Student,?,Thompson,ORD131664,01-05-2021,3685,62.8,15,Prepaid,Digital Wallet,TRUE,0.8554,TRUE,29,Industrial,Large,3195.05
+ID0312718298,No,Home Maker,Bachelors,Nickolson,ORD134511,06-06-2021,25110,63.97,25,COD,Cash,FALSE,0.6836,FALSE,26,Commercial,Medium,18896.47
+ID4544561907,No,Clerical,School,Thompson,ORD136412,16-07-2021,3320,99.76,15,Prepaid,EMI,TRUE,0.6547,TRUE,32,Industrial,Large,2921.76
+ID0576844518,Yes,Blue Collar,School,Nickolson,ORD137495,10-05-2021,19430,74.08,25,COD,Cash,TRUE,0.325,FALSE,32,Commercial,Medium,14646.58
+ID0331417136,No,Doctor,PhD,Nickolson,ORD138302,23-07-2021,24510,87.54,0,COD,Credit Card,TRUE,0.8572,FALSE,30,Commercial,Medium,24597.54
+ID0711334400,Yes,Blue Collar,Bachelors,Bakers,ORD139508,28-07-2021,16150,62.7,15,Prepaid,Debit Card,FALSE,1.3244,FALSE,23,Residential,Small,13790.2
+ID4740822049,No,Blue Collar,High School,Thompson,ORD139543,14-07-2021,18195,79.06,0,Prepaid,EMI,FALSE,1.4241,FALSE,32,Industrial,Large,18274.06
+ID0282825791,No,Manager,Bachelors,Bakers,ORD139834,06-05-2021,25740,78.91,0,COD,Debit Card,TRUE,0.9051,TRUE,25,Residential,Small,25818.91
+ID1449308562,Yes,Professional,Masters,Thompson,ORD141734,12-06-2021,14010,80.66,5,Prepaid,EMI,TRUE,1.1787,TRUE,26,Industrial,Large,13390.16
+ID0591320179,Yes,Blue Collar,High School,Nickolson,ORD144770,26-06-2021,11100,76.33,0,COD,Debit Card,TRUE,0.6623,TRUE,29,Commercial,Medium,11176.33
+ID0036822341,No,Lawyer,Masters,Bakers,ORD144784,27-07-2021,4910,108.87,25,COD,Credit Card,TRUE,1.5207,TRUE,30,Residential,Small,3791.37
+ID4315295100,No,Manager,Bachelors,Bakers,ORD146760,08-07-2021,7810,71.22,10,Prepaid,Debit Card,FALSE,2.0752,FALSE,26,Residential,Small,7100.22
+ID0030385486,Yes,Professional,Bachelors,Bakers,ORD150293,25-05-2021,3410,62.82,25,COD,Cash,FALSE,0.3753,FALSE,26,Residential,Small,2620.32
+ID3218293535,Yes,Professional,Masters,Thompson,ORD151330,24-06-2021,14170,82.27,10,Prepaid,Digital Wallet,TRUE,1.8681,TRUE,32,Industrial,Large,12835.27
+ID0547586405,No,Lawyer,Masters,Nickolson,ORD151721,12-05-2021,18860,72.75,10,Prepaid,Debit Card,FALSE,0.7455,FALSE,25,Commercial,Medium,17046.75
+ID3215192015,Yes,Blue Collar,Bachelors,Thompson,ORD152093,14-05-2021,0,75.93,5,Prepaid,EMI,FALSE,1.0799,FALSE,26,Industrial,Large,75.93
+ID0767592589,No,Clerical,High School,Thompson,ORD153030,03-06-2021,15660,78.02,10,Prepaid,Digital Wallet,TRUE,0.6028,FALSE,24,Industrial,Large,14172.02
+ID0589425753,Yes,Professional,Masters,Bakers,ORD153759,17-06-2021,21285,65.5,10,Prepaid,Credit Card,FALSE,0.5375,FALSE,24,Residential,Small,19222
+ID0052600120,Yes,Student,High School,Bakers,ORD154758,12-06-2021,13510,53.95,25,,Digital Wallet,FALSE,1.308,TRUE,31,Residential,Small,10186.45
+ID2185303477,No,Blue Collar,High School,Nickolson,ORD157353,22-06-2021,12770,52.12,10,COD,Cash,FALSE,1.1272,FALSE,32,Commercial,Medium,11545.12
+ID6226013492,Yes,Manager,High School,Bakers,ORD157688,22-07-2021,4750,73.05,0,COD,Cash,FALSE,0.8369,FALSE,25,Residential,Small,4823.05
+ID0616938658,No,Clerical,School,Thompson,ORD158007,01-05-2021,61619,79.39,15,Prepaid,Debit Card,FALSE,1.452,FALSE,31,Industrial,Large,52455.54
+ID3924911400,No,Professional,Bachelors,Nickolson,ORD158346,09-05-2021,4510,79.49,15,COD,Debit Card,TRUE,1.0602,TRUE,30,Commercial,Medium,3912.99
+ID0634783945,No,Clerical,High School,Bakers,ORD161245,19-07-2021,4030,76.56,15,Prepaid,Digital Wallet,FALSE,0.8342,TRUE,29,Residential,Small,3502.06
+ID6167489463,Yes,Clerical,High School,Thompson,ORD161955,22-07-2021,2455,65.85,15,COD,Debit Card,FALSE,1.4137,TRUE,24,Industrial,Large,2152.6
+ID0052600161,No,Home Maker,High School,Bakers,ORD163916,30-05-2021,15225,93.93,10,COD,Debit Card,TRUE,0.8949,TRUE,31,Residential,Small,13796.43
+ID1463547080,No,Manager,Bachelors,Thompson,ORD164452,11-07-2021,8200,66.01,10,Prepaid,Debit Card,FALSE,1.5218,FALSE,23,Industrial,Large,7446.01
+ID6197211187,Yes,Student,Bachelors,Nickolson,ORD165627,14-07-2021,7360,75.28,5,Prepaid,EMI,FALSE,0.5218,FALSE,26,Commercial,Medium,7067.28
+ID0304168536,No,Student,Bachelors,Bakers,ORD165713,13-07-2021,585,91.79,25,COD,Cash,TRUE,1.361,FALSE,25,Residential,Small,530.54
+ID6221450542,Yes,Manager,Bachelors,Nickolson,ORD166670,05-07-2021,6015,106.1,15,COD,Cash,TRUE,1.4861,TRUE,25,Commercial,Medium,5218.85
+ID0282825849,Yes,Blue Collar,Bachelors,Thompson,ORD167693,07-07-2021,15260,110.17,5,COD,Credit Card,TRUE,1.7728,TRUE,32,Industrial,Large,14607.17
+ID1224821946,Yes,Student,High School,Bakers,ORD168543,20-05-2021,20520,58.61,25,,Digital Wallet,FALSE,0.8283,TRUE,28,Residential,Small,15448.61
+ID0107172471,Yes,Blue Collar,High School,Thompson,ORD170004,09-05-2021,24310,52.69,15,COD,Cash,FALSE,1.2733,FALSE,31,Industrial,Large,20716.19
+ID6097185558,No,Lawyer,PhD,Thompson,ORD170576,30-05-2021,13270,56.17,10,Prepaid,Credit Card,FALSE,0.6217,FALSE,24,Industrial,Large,11999.17
+ID0332796790,Yes,Lawyer,Masters,Thompson,ORD173202,14-07-2021,9870,75.92,0,Prepaid,EMI,FALSE,0.8212,FALSE,32,Industrial,Large,9945.92
+ID0767586831,No,Home Maker,Bachelors,Thompson,ORD175025,17-07-2021,5630,66.7,10,Prepaid,EMI,FALSE,0.2531,FALSE,27,Industrial,Large,5133.7
+ID0589488285,No,Blue Collar,High School,Nickolson,ORD175085,03-06-2021,8950,79.87,10,Prepaid,Digital Wallet,TRUE,1.2357,TRUE,25,Commercial,Medium,8134.87
+ID4297530201,No,Clerical,High School,Nickolson,ORD176554,08-07-2021,14905,101.2,10,Prepaid,Digital Wallet,TRUE,0.6932,TRUE,24,Commercial,Medium,13515.7
+ID4245791604,Yes,Professional,Bachelors,Bakers,ORD176936,03-06-2021,15080,83.03,15,Prepaid,Debit Card,TRUE,1.8971,TRUE,26,Residential,Small,12901.03
+ID2187972536,No,Manager,High School,Nickolson,ORD177002,05-05-2021,20600,87.01,25,Prepaid,EMI,FALSE,2.1958,FALSE,26,Commercial,Medium,15537.01
+ID0030946633,No,Clerical,High School,Nickolson,ORD177106,20-05-2021,5370,95.71,5,Prepaid,Credit Card,TRUE,1.1157,TRUE,25,Commercial,Medium,5197.21
+ID6167489399,No,Blue Collar,School,Nickolson,ORD177535,02-06-2021,18020,62.95,10,Prepaid,Credit Card,FALSE,0.2271,FALSE,30,Commercial,Medium,16280.95
+ID5563404251,No,Clerical,School,Thompson,ORD178590,21-07-2021,13710,77.61,0,COD,Cash,FALSE,1.2791,FALSE,30,Industrial,Large,13787.61
+ID4847645684,No,Manager,High School,Nickolson,ORD178601,18-06-2021,4680,64.19,10,Prepaid,Debit Card,FALSE,0.8382,FALSE,31,Commercial,Medium,4276.19
+ID0681285245,No,Manager,PhD,Nickolson,ORD179719,24-07-2021,8160,102.89,15,Prepaid,Credit Card,TRUE,0.8621,TRUE,30,Commercial,Medium,7038.89
+ID0746912592,Yes,Student,School,Bakers,ORD182183,24-06-2021,7050,66.79,25,COD,Cash,TRUE,1.6625,TRUE,31,Residential,Small,5354.29
+ID0775942446,No,Blue Collar,Bachelors,Thompson,ORD182494,02-06-2021,12200,79.89,10,Prepaid,Debit Card,TRUE,1.28,TRUE,23,Industrial,Large,11059.89
+ID0358731034,No,Clerical,School,Nickolson,ORD182549,23-06-2021,2890,65.07,10,Prepaid,Credit Card,TRUE,1.1723,TRUE,28,Commercial,Medium,2666.07
+ID0598348995,Yes,Blue Collar,?,Bakers,ORD184184,18-06-2021,14800,80.46,15,Prepaid,Digital Wallet,TRUE,1.3818,TRUE,31,Residential,Small,12660.46
+ID0582560124,No,Professional,Bachelors,Nickolson,ORD184511,30-06-2021,22925,67.15,25,Prepaid,Digital Wallet,TRUE,1.3171,TRUE,30,Commercial,Medium,17260.9
+ID0387152924,No,Blue Collar,High School,Nickolson,ORD184906,29-06-2021,20655,64.96,15,Prepaid,Debit Card,FALSE,1.1764,FALSE,27,Commercial,Medium,17621.71
+ID0773059241,No,Professional,Bachelors,Thompson,ORD188735,27-05-2021,8965,94.3,10,Prepaid,Digital Wallet,TRUE,0.9605,TRUE,22,Industrial,Large,8162.8
+ID3924911399,Yes,Blue Collar,School,Thompson,ORD189717,04-05-2021,6910,78.46,5,Prepaid,EMI,TRUE,0.7093,TRUE,31,Industrial,Large,6642.96
+ID1217532913,No,Blue Collar,High School,Bakers,ORD190038,15-07-2021,11520,101.84,0,Prepaid,Debit Card,TRUE,0.5136,FALSE,30,Residential,Small,11621.84
+ID0767820372,Yes,Manager,Masters,Nickolson,ORD190200,14-06-2021,14950,48.99,15,COD,Cash,FALSE,0.5649,FALSE,31,Commercial,Medium,12756.49
+ID3146808091,Yes,Home Maker,School,Thompson,ORD190264,16-05-2021,5975,,0,Prepaid,Debit Card,TRUE,1.6131,TRUE,23,Industrial,Large,6060.9
+ID5096779239,Yes,Professional,Bachelors,Thompson,ORD191503,23-06-2021,3310,64.61,25,Prepaid,Debit Card,TRUE,1.4962,TRUE,30,Industrial,Large,2547.11
+ID0702451456,Yes,Lawyer,Masters,Bakers,ORD191543,01-06-2021,16450,62.56,10,COD,Cash,TRUE,1.3054,TRUE,31,Residential,Small,14867.56
+ID0387704653,No,Lawyer,Masters,Bakers,ORD192391,16-06-2021,1660,0,15,Prepaid,EMI,FALSE,1.2267,FALSE,31,Residential,Small,1411
+ID6167413281,No,Blue Collar,High School,Bakers,ORD193150,15-06-2021,12700,75.7,5,Prepaid,EMI,TRUE,0.8482,TRUE,31,Residential,Small,12140.7
+ID0294622374,Yes,Blue Collar,Bachelors,Thompson,ORD193841,03-05-2021,16570,102.72,10,Prepaid,Digital Wallet,TRUE,1.7862,TRUE,29,Industrial,Large,15015.72
+ID6167344582,Yes,Manager,Bachelors,Bakers,ORD194707,29-07-2021,10660,75.42,25,Prepaid,Digital Wallet,FALSE,1.102,TRUE,25,Residential,Small,8070.42
+ID0630463867,No,Student,?,Thompson,ORD197091,09-06-2021,31110,76.73,5,Prepaid,Debit Card,TRUE,0.9465,TRUE,31,Industrial,Large,29631.23
+ID4633638470,No,Professional,Bachelors,Thompson,ORD197167,26-05-2021,23180,64.98,25,COD,Cash,FALSE,0.3603,FALSE,24,Industrial,Large,17449.98
+ID6024429121,Yes,Clerical,School,Bakers,ORD197918,12-07-2021,6460,105.1,5,Prepaid,EMI,TRUE,1.636,TRUE,25,Residential,Small,6242.1
+ID1982456970,Yes,Blue Collar,High School,Nickolson,ORD198111,12-05-2021,32340,97.3,25,Prepaid,Debit Card,TRUE,1.217,TRUE,29,Commercial,Medium,24352.3
+ID0131221774,Yes,Clerical,Bachelors,Bakers,ORD199125,03-05-2021,5910,68.05,15,COD,Cash,FALSE,0.3374,FALSE,31,Residential,Small,5091.55
+ID0579970448,Yes,Manager,Bachelors,Thompson,ORD200084,21-06-2021,12805,79.18,25,Prepaid,EMI,TRUE,1.1692,TRUE,30,Industrial,Large,9682.93
+ID3218293544,No,Clerical,School,Bakers,ORD202010,10-05-2021,2525,68.51,15,Prepaid,Credit Card,FALSE,0.7443,FALSE,27,Residential,Small,2214.76
+ID2841675041,No,Manager,Bachelors,Nickolson,ORD202296,23-07-2021,5545,74.21,0,Prepaid,EMI,FALSE,0.6227,TRUE,30,Commercial,Medium,5619.21
+ID0370751687,Yes,Clerical,?,Thompson,ORD202308,15-07-2021,4675,114.04,5,Prepaid,Debit Card,TRUE,2.1241,TRUE,24,Industrial,Large,4555.29
+ID4787373516,Yes,Professional,Bachelors,Thompson,ORD204657,06-07-2021,14280,113.83,25,Prepaid,Debit Card,TRUE,2.2021,TRUE,25,Industrial,Large,10823.83
+ID0662736521,Yes,Blue-Collar,School,Thompson,ORD205507,10-06-2021,16770,81.95,15,Prepaid,Digital Wallet,TRUE,48.5984,TRUE,29,Industrial,Large,14336.45
+ID5301568579,Yes,Home Maker,School,Bakers,ORD206559,24-06-2021,21180,82.37,15,Prepaid,EMI,TRUE,1.6226,TRUE,28,Residential,Small,18085.37
+ID1283637393,No,Clerical,High School,Bakers,ORD208080,12-06-2021,9125,80.9,25,Prepaid,EMI,TRUE,1.2309,TRUE,27,Residential,Small,6924.65
+ID6167417934,Yes,Professional,High School,Thompson,ORD208711,10-06-2021,14150,73.11,10,Prepaid,Debit Card,FALSE,1.9854,FALSE,32,Industrial,Large,12808.11
+ID0356215182,Yes,Blue-Collar,School,Nickolson,ORD209997,25-07-2021,17410,108.58,25,Prepaid,Digital Wallet,TRUE,1.7972,FALSE,32,Commercial,Medium,13166.08
+ID0373641803,Yes,Lawyer,Masters,Nickolson,ORD210087,16-07-2021,1010,103.41,15,COD,Cash,TRUE,1.1413,TRUE,23,Commercial,Medium,961.91
+ID0311654900,Yes,Clerical,School,Nickolson,ORD212584,20-05-2021,11650,96.56,15,COD,Cash,TRUE,1.1835,TRUE,26,Commercial,Medium,9999.06
+ID0710021149,No,Lawyer,Masters,Thompson,ORD212818,29-07-2021,8770,66.33,10,COD,Cash,FALSE,1.3039,FALSE,26,Industrial,Large,7959.33
+ID6167289293,Yes,Clerical,High School,Bakers,ORD213192,09-05-2021,6930,64.75,10,Prepaid,Digital Wallet,TRUE,0.859,TRUE,30,Residential,Small,6301.75
+ID0356448679,Yes,Lawyer,Masters,Thompson,ORD214700,03-07-2021,6780,75.54,10,Prepaid,Digital Wallet,FALSE,0.9363,TRUE,23,Industrial,Large,6177.54
+ID2213981052,Yes,Clerical,High School,Thompson,ORD215329,09-05-2021,22460,70.09,15,Prepaid,Digital Wallet,FALSE,2.2493,TRUE,24,Industrial,Large,19161.09
+ID0560991981,No,Home Maker,High School,Bakers,ORD215616,22-05-2021,7760,79.46,10,Prepaid,Digital Wallet,TRUE,0.9209,TRUE,24,Residential,Small,7063.46
+ID4804855254,Yes,Student,High School,Bakers,ORD215775,09-06-2021,2085,75.12,0,COD,Cash,TRUE,0.7391,TRUE,24,Residential,Small,2160.12
+ID3394768956,No,Clerical,Bachelors,Thompson,ORD216875,09-05-2021,87622,78.72,5,Prepaid,EMI,FALSE,1.374,FALSE,27,Industrial,Large,83319.62
+ID0214092261,Yes,Professional,High School,Nickolson,ORD222362,14-05-2021,7170,66.4,10,COD,Cash,FALSE,1.3256,FALSE,28,Commercial,Medium,6519.4
+ID0266737792,No,Student,School,Nickolson,ORD225422,19-06-2021,14670,73.4,25,Prepaid,Digital Wallet,TRUE,0.4426,TRUE,29,Commercial,Medium,11075.9
+ID3036576351,Yes,Professional,Bachelors,Thompson,ORD226150,10-06-2021,24800,80.23,0,COD,Cash,TRUE,1.4444,TRUE,23,Industrial,Large,24880.23
+ID0767584716,No,Professional,Bachelors,Thompson,ORD226452,29-07-2021,14950,101.06,15,Prepaid,Digital Wallet,TRUE,0.9262,FALSE,24,Industrial,Large,12808.56
+ID6167191155,Yes,Manager,PhD,Bakers,ORD226730,10-05-2021,2090,83.97,15,Prepaid,Digital Wallet,FALSE,1.8899,TRUE,23,Residential,Small,1860.47
+ID0591274455,Yes,Student,High School,Bakers,ORD226807,27-05-2021,8070,73.19,0,Prepaid,EMI,FALSE,0.9594,FALSE,32,Residential,Small,8143.19
+ID0060088412,Yes,Blue Collar,High School,Nickolson,ORD228044,29-05-2021,4510,79.92,15,Prepaid,Digital Wallet,FALSE,1.4323,TRUE,29,Commercial,Medium,3913.42
+ID0767645839,No,Clerical,High School,Nickolson,ORD228614,26-07-2021,25760,99.42,0,COD,Cash,TRUE,0.5423,TRUE,26,Commercial,Medium,25859.42
+ID0580186550,Yes,Blue Collar,High School,Nickolson,ORD229308,12-07-2021,0,101.29,10,Prepaid,Digital Wallet,TRUE,0.7142,TRUE,29,Commercial,Medium,101.29
+ID0131247323,Yes,Home Maker,High School,Nickolson,ORD230243,24-07-2021,21210,60.61,10,Prepaid,EMI,FALSE,0.869,FALSE,32,Commercial,Medium,19149.61
+ID1463547040,Yes,Clerical,?,Nickolson,ORD230298,17-07-2021,10260,81.6,15,Prepaid,Digital Wallet,FALSE,1.48,TRUE,27,Commercial,Medium,8802.6
+ID4633638458,No,Student,Bachelors,Bakers,ORD232026,20-07-2021,19820,91.34,15,Prepaid,Digital Wallet,TRUE,1.5637,TRUE,25,Residential,Small,16938.34
+ID0589500304,No,Blue-Collar,School,Nickolson,ORD232940,04-05-2021,6545,77.11,5,COD,Cash,TRUE,61.2935,TRUE,23,Commercial,Medium,6294.86
+ID0634783948,Yes,Professional,Bachelors,Thompson,ORD233901,26-06-2021,13315,64.27,10,COD,Cash,FALSE,0.6413,FALSE,28,Industrial,Large,12047.77
+ID2975268835,No,Lawyer,Masters,Bakers,ORD234302,30-07-2021,10015,97.76,0,COD,Cash,TRUE,2.0449,FALSE,32,Residential,Small,10112.76
+ID2702095684,Yes,Professional,High School,Thompson,ORD234473,26-06-2021,33870,77.06,0,Prepaid,Debit Card,TRUE,0.8848,TRUE,28,Industrial,Large,33947.06
+ID0593055535,Yes,Home Maker,Masters,Thompson,ORD234525,05-06-2021,24860,66.68,15,,Cash,FALSE,0.9763,FALSE,29,Industrial,Large,21197.68
+ID1132014865,Yes,Clerical,High School,Bakers,ORD234851,09-06-2021,8770,65.06,15,Prepaid,EMI,FALSE,0.9345,FALSE,28,Residential,Small,7519.56
+ID0312718905,No,Clerical,Bachelors,Thompson,ORD235371,21-06-2021,20360,78.81,15,Prepaid,Digital Wallet,TRUE,1.1722,TRUE,28,Industrial,Large,17384.81
+ID0591432788,Yes,Student,Bachelors,Nickolson,ORD235383,23-07-2021,6910,88.45,25,Prepaid,EMI,TRUE,1.1337,TRUE,30,Commercial,Medium,5270.95
+ID6207022859,Yes,Doctor,PhD,Thompson,ORD235478,12-05-2021,23440,55.54,10,Prepaid,Credit Card,FALSE,0.5826,FALSE,24,Industrial,Large,21151.54
+ID0591408731,Yes,Lawyer,Masters,Nickolson,ORD236167,24-05-2021,3320,68.12,10,COD,Cash,FALSE,1.5671,FALSE,28,Commercial,Medium,3056.12
+ID4787373515,Yes,Professional,Masters,Nickolson,ORD236948,16-07-2021,12090,52.04,15,Prepaid,EMI,FALSE,0.2502,TRUE,29,Commercial,Medium,10328.54
+ID0710034749,Yes,Student,School,Bakers,ORD239025,31-05-2021,17260,64.3,15,Prepaid,Credit Card,FALSE,0.9631,FALSE,23,Residential,Small,14735.3
+ID0144730304,Yes,Blue Collar,High School,Nickolson,ORD239056,06-05-2021,19710,0,25,COD,Cash,TRUE,0.6851,TRUE,27,Commercial,Medium,14782.5
+ID2020832914,No,Student,?,Bakers,ORD239747,07-06-2021,8940,75.91,5,COD,Cash,TRUE,0.5422,TRUE,24,Residential,Small,8568.91
+ID0309346900,No,Clerical,Bachelors,Thompson,ORD239838,31-05-2021,18390,68.69,15,Prepaid,EMI,FALSE,1.877,FALSE,26,Industrial,Large,15700.19
+ID3115867881,Yes,Clerical,High School,Nickolson,ORD241112,14-05-2021,34400,93.7,10,Prepaid,Debit Card,TRUE,0.7686,TRUE,27,Commercial,Medium,31053.7
+ID0589397643,Yes,Blue Collar,?,Bakers,ORD241414,29-07-2021,17660,76.77,5,Prepaid,EMI,FALSE,0.9083,FALSE,24,Residential,Small,16853.77
+ID0777791299,No,Doctor,PhD,Thompson,ORD242226,06-05-2021,24210,83.23,0,Prepaid,EMI,TRUE,1.5872,TRUE,27,Industrial,Large,24293.23
+ID4162427930,Yes,Manager,Bachelors,Thompson,ORD242864,09-05-2021,37570,79.94,10,Prepaid,Digital Wallet,TRUE,1.524,TRUE,24,Industrial,Large,33892.94
+ID4326586187,Yes,Professional,Bachelors,Nickolson,ORD243905,23-07-2021,13275,79.95,0,COD,Cash,TRUE,0.9612,TRUE,30,Commercial,Medium,13354.95
+ID6202471425,No,Manager,Masters,Nickolson,ORD244567,19-06-2021,6800,71.89,15,Prepaid,Digital Wallet,TRUE,0.1928,TRUE,27,Commercial,Medium,5851.89
+ID2193369804,Yes,Professional,Bachelors,Bakers,ORD244594,02-07-2021,22130,108.92,25,COD,Cash,TRUE,1.9565,TRUE,23,Residential,Small,16706.42
+ID1725216621,No,Manager,Bachelors,Nickolson,ORD246022,07-07-2021,13630,70.38,0,,Cash,FALSE,0.6687,FALSE,31,Commercial,Medium,13700.38
+ID0709707024,No,Clerical,School,Thompson,ORD249031,23-06-2021,4675,79.09,25,Prepaid,Digital Wallet,TRUE,0.8604,TRUE,26,Industrial,Large,3585.34
+ID0202767927,No,Manager,Masters,Thompson,ORD249776,08-07-2021,454996,79.28,15,Prepaid,Digital Wallet,FALSE,1.2872,TRUE,23,Industrial,Large,386825.88
+ID0588200381,Yes,Blue Collar,Bachelors,Thompson,ORD250175,27-06-2021,24680,76.85,25,Prepaid,Debit Card,TRUE,0.9396,TRUE,25,Industrial,Large,18586.85
+ID5668009793,No,Blue Collar,High School,Thompson,ORD252775,20-06-2021,6545,77.52,15,COD,Cash,TRUE,0.819,TRUE,23,Industrial,Large,5640.77
+ID6167191700,Yes,Lawyer,Masters,Bakers,ORD253502,17-07-2021,13350,99.58,15,Prepaid,Credit Card,TRUE,0.7437,TRUE,29,Residential,Small,11447.08
+ID0582557918,Yes,Blue Collar,High School,Nickolson,ORD255642,12-07-2021,19710,75.64,0,COD,Cash,TRUE,0.5716,FALSE,23,Commercial,Medium,19785.64
+ID1404219802,Yes,Lawyer,Masters,Thompson,ORD256016,22-06-2021,21580,74.21,15,Prepaid,Digital Wallet,FALSE,2.5269,TRUE,25,Industrial,Large,18417.21
+ID0702352304,Yes,Student,School,Bakers,ORD256605,18-07-2021,16300,100.36,5,Prepaid,Credit Card,TRUE,0.8456,TRUE,25,Residential,Small,15585.36
+ID1445498772,Yes,Clerical,High School,Bakers,ORD259052,14-07-2021,23890,78.08,25,COD,Cash,FALSE,0.9083,FALSE,32,Residential,Small,17995.58
+ID0387266447,Yes,Lawyer,Masters,Thompson,ORD261924,15-06-2021,7760,52.6,10,,Digital Wallet,FALSE,1.3344,TRUE,28,Industrial,Large,7036.6
+ID5402876541,No,Doctor,PhD,Bakers,ORD262488,10-05-2021,15075,79.79,10,Prepaid,Digital Wallet,TRUE,1.0948,TRUE,25,Residential,Small,13647.29
+ID0635529205,No,Professional,Bachelors,Nickolson,ORD262556,28-07-2021,1010,56.5,15,COD,Debit Card,FALSE,0.2216,TRUE,28,Commercial,Medium,915
+ID0401416145,No,Doctor,PhD,Nickolson,ORD265905,23-07-2021,20350,75.39,15,Prepaid,Credit Card,FALSE,0.5357,FALSE,24,Commercial,Medium,17372.89
+ID0248266256,No,Clerical,High School,Bakers,ORD265921,27-06-2021,13845,55.62,15,Prepaid,Credit Card,FALSE,2.1916,FALSE,28,Residential,Small,11823.87
+ID1277988762,Yes,Home Maker,Bachelors,Nickolson,ORD266257,27-07-2021,19525,97.32,0,Prepaid,Debit Card,TRUE,0.4,TRUE,27,Commercial,Medium,19622.32
+ID2400284486,Yes,Blue-Collar,School,Thompson,ORD267040,05-06-2021,26360,66.84,10,Prepaid,Digital Wallet,FALSE,1.4472,TRUE,27,Industrial,Large,23790.84
+ID0572037071,Yes,Manager,PhD,Bakers,ORD267220,26-06-2021,15625,83,10,COD,Cash,TRUE,1.7613,FALSE,29,Residential,Small,14145.5
+ID3144850933,No,Manager,Bachelors,Nickolson,ORD267241,26-06-2021,5545,80.49,25,Prepaid,Debit Card,TRUE,1.5209,TRUE,32,Commercial,Medium,4239.24
+ID0443297188,No,Clerical,?,Nickolson,ORD270933,29-07-2021,26455,79.25,15,Prepaid,Debit Card,FALSE,1.1383,FALSE,31,Commercial,Medium,22566
+ID6167344549,Yes,Clerical,High School,Thompson,ORD271609,16-07-2021,21570,,10,COD,Credit Card,FALSE,0.655,TRUE,27,Industrial,Large,19473.84
+ID3085926091,No,Clerical,Bachelors,Thompson,ORD273727,27-05-2021,25105,81.7,10,Prepaid,Digital Wallet,TRUE,1.9267,TRUE,32,Industrial,Large,22676.2
+ID0207085738,No,Manager,Masters,Nickolson,ORD275535,18-05-2021,14420,58.19,15,Prepaid,Credit Card,FALSE,0.7992,FALSE,28,Commercial,Medium,12315.19
+ID3420939994,No,Manager,Masters,Thompson,ORD276878,02-05-2021,12765,62.55,10,COD,Cash,TRUE,0.3966,TRUE,22,Industrial,Large,11551.05
+ID0247024616,No,Lawyer,Masters,Nickolson,ORD277358,13-07-2021,13210,61.09,15,COD,Debit Card,FALSE,0.8684,TRUE,23,Commercial,Medium,11289.59
+ID3924911420,No,Student,Bachelors,Nickolson,ORD279402,12-07-2021,14260,94.56,25,COD,Cash,TRUE,0.913,TRUE,25,Commercial,Medium,10789.56
+ID0349920103,No,Clerical,Bachelors,Thompson,ORD280009,03-05-2021,0,68.24,10,Prepaid,Digital Wallet,FALSE,1.2588,TRUE,23,Industrial,Large,68.24
+ID0277366130,No,Home Maker,High School,Thompson,ORD282679,17-05-2021,14390,80.69,15,Prepaid,Digital Wallet,FALSE,1.7369,TRUE,32,Industrial,Large,12312.19
+ID2180614753,Yes,Professional,High School,Bakers,ORD283406,10-05-2021,8635,65.36,25,Prepaid,Digital Wallet,FALSE,1.0956,TRUE,24,Residential,Small,6541.61
+ID0246439398,Yes,Lawyer,Masters,Thompson,ORD285119,14-06-2021,13810,68.86,15,Prepaid,Digital Wallet,FALSE,1.7476,TRUE,23,Industrial,Large,11807.36
+ID0103121662,Yes,Clerical,High School,Thompson,ORD286712,14-07-2021,6910,73.73,5,Prepaid,Credit Card,FALSE,0.2502,FALSE,31,Industrial,Large,6638.23
+ID0634783947,No,Manager,Masters,Nickolson,ORD288212,05-06-2021,16180,50.05,15,Prepaid,EMI,FALSE,0.7368,FALSE,27,Commercial,Medium,13803.05
+ID4518401167,Yes,Manager,Bachelors,Nickolson,ORD288323,13-07-2021,10175,75.06,10,Prepaid,EMI,FALSE,0.9945,FALSE,30,Commercial,Medium,9232.56
+ID0243097196,Yes,Lawyer,Masters,Nickolson,ORD288725,10-07-2021,19400,72.47,15,Prepaid,Debit Card,FALSE,0.2596,FALSE,23,Commercial,Medium,16562.47
+ID3098154914,Yes,Lawyer,Masters,Thompson,ORD289920,04-05-2021,2480,72.41,25,Prepaid,Digital Wallet,FALSE,66.8512,TRUE,24,Industrial,Large,1932.41
+ID3213448169,Yes,Lawyer,Masters,Bakers,ORD290674,14-05-2021,10180,0,15,Prepaid,Digital Wallet,TRUE,0.4818,TRUE,24,Residential,Small,8653
+ID0581715652,Yes,Student,High School,Nickolson,ORD291961,27-06-2021,10585,79.98,25,Prepaid,Digital Wallet,TRUE,0.8921,TRUE,30,Commercial,Medium,8018.73
+ID1463656466,Yes,Lawyer,Masters,Nickolson,ORD293148,01-07-2021,5180,80.53,25,,Cash,FALSE,1.1423,FALSE,23,Commercial,Medium,3965.53
+ID0634783578,No,Blue Collar,High School,Thompson,ORD294462,09-05-2021,5825,82.33,25,Prepaid,Debit Card,TRUE,1.2522,TRUE,31,Industrial,Large,4451.08
+ID0054552169,Yes,Clerical,High School,Bakers,ORD296636,09-05-2021,11100,76.14,15,Prepaid,Digital Wallet,FALSE,1.2262,TRUE,25,Residential,Small,9511.14
+ID0253027653,No,Manager,Bachelors,Nickolson,ORD300049,24-06-2021,4470,63.92,25,Prepaid,Credit Card,FALSE,0.5237,FALSE,28,Commercial,Medium,3416.42
+ID0579492570,Yes,Lawyer,Masters,Bakers,ORD300924,16-07-2021,9035,108.57,0,COD,Cash,TRUE,1.7925,TRUE,23,Residential,Small,9143.57
+ID2288769502,Yes,Home Maker,High School,Nickolson,ORD301674,22-05-2021,15460,80.44,25,Prepaid,Debit Card,TRUE,1.3433,TRUE,28,Commercial,Medium,11675.44
+ID0777768981,No,Blue Collar,High School,Bakers,ORD303289,15-07-2021,15080,102.58,0,COD,Cash,TRUE,1.1248,TRUE,24,Residential,Small,15182.58
+ID3143370318,No,Blue Collar,School,Thompson,ORD307978,19-07-2021,21310,98.58,0,Prepaid,Debit Card,TRUE,0.3993,TRUE,31,Industrial,Large,21408.58
+ID0598401527,No,Clerical,School,Nickolson,ORD308765,21-05-2021,2330,89.45,15,Prepaid,Digital Wallet,TRUE,0.5863,TRUE,25,Commercial,Medium,2069.95
+ID0588198721,Yes,Professional,Bachelors,Thompson,ORD310531,05-06-2021,10355,80.7,15,Prepaid,Digital Wallet,TRUE,1.5123,TRUE,30,Industrial,Large,8882.45
+ID0571731867,Yes,Home Maker,PhD,Thompson,ORD312372,12-05-2021,13550,78.11,5,Prepaid,Credit Card,TRUE,0.5829,TRUE,27,Industrial,Large,12950.61
+ID2325395490,No,Blue Collar,High School,Bakers,ORD314525,19-05-2021,1380,67.79,25,Prepaid,EMI,FALSE,20.8952,FALSE,26,Residential,Small,1102.79
+ID0711333782,No,Professional,High School,Nickolson,ORD314979,21-07-2021,22730,63.51,25,COD,Credit Card,FALSE,1.1216,TRUE,30,Commercial,Medium,17111.01
+ID0702352314,Yes,Blue Collar,High School,Nickolson,ORD315179,20-05-2021,23660,49.88,25,Prepaid,Digital Wallet,FALSE,0.2826,TRUE,26,Commercial,Medium,17794.88
+ID6167489462,No,Blue Collar,High School,Thompson,ORD315504,16-05-2021,20360,67.54,10,Prepaid,Digital Wallet,FALSE,1.6598,TRUE,29,Industrial,Large,18391.54
+ID0846567658,No,Clerical,High School,Bakers,ORD316807,14-06-2021,3085,77.6,5,COD,Cash,TRUE,1.1374,TRUE,26,Residential,Small,3008.35
+ID4283908163,Yes,Clerical,School,Nickolson,ORD317333,04-05-2021,11100,80.48,10,Prepaid,Debit Card,TRUE,1.0404,TRUE,25,Commercial,Medium,10070.48
+ID6167417963,No,Blue Collar,Bachelors,Nickolson,ORD317652,09-06-2021,5630,77.85,15,Prepaid,Digital Wallet,TRUE,0.7676,TRUE,23,Commercial,Medium,4863.35
+ID4120677337,Yes,Manager,Bachelors,Thompson,ORD319178,26-06-2021,9125,76.98,15,Prepaid,Credit Card,TRUE,0.8776,FALSE,30,Industrial,Large,7833.23
+ID4353884085,No,Student,Bachelors,Bakers,ORD320916,12-05-2021,29195,73.43,25,Prepaid,Debit Card,FALSE,0.8646,FALSE,23,Residential,Small,21969.68
+ID4735909071,No,Clerical,High School,Thompson,ORD321270,16-06-2021,5500,66.16,15,Prepaid,EMI,FALSE,1.1615,FALSE,29,Industrial,Large,4741.16
+ID0247417091,Yes,Lawyer,Masters,Thompson,ORD321832,06-07-2021,4405,77.22,5,COD,Cash,FALSE,0.7335,FALSE,32,Industrial,Large,4261.97
+ID0319159694,No,Professional,High School,Nickolson,ORD322017,26-05-2021,19250,48.55,10,Prepaid,Debit Card,FALSE,68.8892,FALSE,24,Commercial,Medium,17373.55
+ID0030385740,No,Lawyer,Masters,Bakers,ORD322420,15-07-2021,13530,79.19,10,Prepaid,Credit Card,FALSE,1.1206,FALSE,31,Residential,Small,12256.19
+ID0589449820,No,Clerical,High School,Nickolson,ORD324141,27-06-2021,3030,67.47,10,COD,Cash,FALSE,1.2783,FALSE,28,Commercial,Medium,2794.47
+ID6167489485,Yes,Blue Collar,High School,Thompson,ORD326400,15-07-2021,35180,74.12,15,Prepaid,Debit Card,FALSE,1.0279,FALSE,32,Industrial,Large,29977.12
+ID0060096961,No,Blue Collar,School,Bakers,ORD327155,13-07-2021,2890,76.98,0,COD,Cash,FALSE,1.0137,FALSE,25,Residential,Small,2966.98
+ID4735836868,No,Professional,Bachelors,Bakers,ORD328132,25-06-2021,15880,65.07,25,Prepaid,Debit Card,FALSE,0.9702,FALSE,27,Residential,Small,11975.07
+ID4735836869,Yes,Blue Collar,Bachelors,Bakers,ORD328292,03-05-2021,4910,102.82,25,Prepaid,Debit Card,TRUE,1.6818,TRUE,27,Residential,Small,3785.32
+ID0711783633,No,Professional,Bachelors,Thompson,ORD328848,21-06-2021,5700,80.75,25,COD,Cash,TRUE,1.5585,TRUE,29,Industrial,Large,4355.75
+ID0493873191,Yes,Blue Collar,High School,Nickolson,ORD330289,13-06-2021,9350,65.5,10,Prepaid,EMI,TRUE,1.3044,TRUE,27,Commercial,Medium,8480.5
+ID4544037561,No,Student,School,Bakers,ORD330543,19-05-2021,22490,105.04,10,Prepaid,Digital Wallet,TRUE,2.0425,TRUE,29,Residential,Small,20346.04
+ID0767729251,No,Lawyer,Masters,Nickolson,ORD330641,22-07-2021,25105,104.49,5,Prepaid,Credit Card,TRUE,0.8196,TRUE,29,Commercial,Medium,23954.24
+ID0762836286,Yes,Clerical,School,Nickolson,ORD332011,23-07-2021,7535,73.2,5,Prepaid,EMI,FALSE,0.8596,FALSE,31,Commercial,Medium,7231.45
+ID5563404259,No,Clerical,Bachelors,Nickolson,ORD333358,06-06-2021,24340,79.71,10,COD,Cash,TRUE,1.3084,TRUE,29,Commercial,Medium,21985.71
+ID0283334330,Yes,Lawyer,Masters,Thompson,ORD333990,09-07-2021,19520,88.17,15,COD,Cash,TRUE,0.9098,FALSE,29,Industrial,Large,16680.17
+ID1132069617,No,Blue Collar,High School,Nickolson,ORD334485,25-05-2021,5220,72.31,10,Prepaid,Debit Card,FALSE,0.7225,FALSE,24,Commercial,Medium,4770.31
+ID0702363477,Yes,Blue Collar,Bachelors,Bakers,ORD336893,03-07-2021,26455,78.3,10,COD,Cash,FALSE,0.9274,FALSE,29,Residential,Small,23887.8
+ID6167266614,No,Student,School,Thompson,ORD337311,01-05-2021,15840,71.27,10,Prepaid,Digital Wallet,FALSE,0.4906,TRUE,26,Industrial,Large,14327.27
+ID0579501050,Yes,Manager,Masters,Bakers,ORD337877,08-06-2021,11175,69.64,15,Prepaid,Debit Card,FALSE,1.7053,FALSE,23,Residential,Small,9568.39
+ID0702374154,No,Manager,Masters,Thompson,ORD337984,02-07-2021,0,74.84,5,COD,Cash,FALSE,0.6767,FALSE,24,Industrial,Large,74.84
+ID1462398911,No,Manager,Bachelors,Thompson,ORD339649,21-06-2021,597240,79.91,5,Prepaid,EMI,TRUE,1.2716,TRUE,31,Industrial,Large,567457.91
+ID0591258325,No,Clerical,High School,Bakers,ORD339672,14-07-2021,5675,73.03,5,Prepaid,Debit Card,FALSE,0.3468,FALSE,31,Residential,Small,5464.28
+ID0030945778,Yes,Manager,Bachelors,Bakers,ORD340641,27-07-2021,2910,91.48,25,Prepaid,Digital Wallet,TRUE,1.3846,TRUE,25,Residential,Small,2273.98
+ID0781107765,No,Student,?,Thompson,ORD341013,10-06-2021,31750,63.75,15,Prepaid,EMI,FALSE,0.8623,FALSE,30,Industrial,Large,27051.25
+ID0387266445,Yes,Blue Collar,Bachelors,Thompson,ORD341686,28-07-2021,12400,58.96,15,COD,Cash,FALSE,0.5574,FALSE,24,Industrial,Large,10598.96
+ID3161948917,Yes,Manager,Bachelors,Bakers,ORD343782,21-05-2021,3685,80.31,0,COD,Cash,TRUE,1.0066,TRUE,29,Residential,Small,3765.31
+ID0578077324,No,Lawyer,Masters,Thompson,ORD344472,17-07-2021,9865,52.2,15,COD,Cash,FALSE,0.429,FALSE,32,Industrial,Large,8437.45
+ID4520380552,Yes,Home Maker,School,Thompson,ORD345202,21-05-2021,27765,73.85,10,Prepaid,Debit Card,FALSE,0.8879,FALSE,29,Industrial,Large,25062.35
+ID3085953531,Yes,Blue Collar,Bachelors,Nickolson,ORD345282,07-07-2021,10020,100.79,5,Prepaid,Credit Card,TRUE,0.8089,TRUE,32,Commercial,Medium,9619.79
+ID0774517574,Yes,Clerical,High School,Thompson,ORD346356,28-07-2021,63500,107.18,25,Prepaid,EMI,TRUE,1.4855,TRUE,25,Industrial,Large,47732.18
+ID6167441023,No,Student,High School,Nickolson,ORD347062,16-05-2021,29250,81.45,5,COD,Cash,TRUE,1.1191,TRUE,28,Commercial,Medium,27868.95
+ID4453229733,No,Professional,High School,Thompson,ORD347364,11-07-2021,19860,76.79,10,COD,Cash,FALSE,1.049,FALSE,27,Industrial,Large,17950.79
+ID2207663849,No,Professional,Bachelors,Bakers,ORD347594,31-05-2021,35205,73.58,10,Prepaid,EMI,TRUE,0.4624,TRUE,24,Residential,Small,31758.08
+ID0317369540,Yes,Student,Bachelors,Nickolson,ORD349135,28-06-2021,2990,52.2,25,Prepaid,EMI,FALSE,1.1708,TRUE,31,Commercial,Medium,2294.7
+ID0440051881,Yes,Home Maker,Masters,Thompson,ORD349525,05-07-2021,17805,74.79,15,Prepaid,Digital Wallet,FALSE,0.8546,TRUE,31,Industrial,Large,15209.04
+ID3293340280,Yes,Clerical,High School,Thompson,ORD352051,04-05-2021,30650,63.01,25,COD,Cash,TRUE,0.7515,TRUE,27,Industrial,Large,23050.51
+ID0127674021,Yes,Manager,Masters,Nickolson,ORD352593,09-05-2021,9340,83.45,5,Prepaid,Credit Card,TRUE,1.8357,TRUE,27,Commercial,Medium,8956.45
+ID5290706362,No,Professional,Bachelors,Bakers,ORD353238,09-06-2021,12810,84.86,10,COD,Cash,TRUE,76.3419,TRUE,24,Residential,Small,11613.86
+ID0207093578,No,Clerical,High School,Nickolson,ORD354341,07-05-2021,3405,59.2,15,Prepaid,Digital Wallet,FALSE,1.0532,TRUE,30,Commercial,Medium,2953.45
+ID0130040956,No,Doctor,PhD,Nickolson,ORD354413,14-07-2021,12790,75.04,15,COD,Cash,FALSE,0.9532,FALSE,30,Commercial,Medium,10946.54
+ID0248746924,Yes,Home Maker,Bachelors,Nickolson,ORD355763,28-06-2021,3310,77.07,0,COD,Cash,TRUE,0.9011,FALSE,27,Commercial,Medium,3387.07
+ID0746912589,Yes,Blue Collar,High School,Nickolson,ORD355844,08-05-2021,24050,52.14,15,Prepaid,Debit Card,FALSE,1.3171,FALSE,27,Commercial,Medium,20494.64
+ID0781091686,No,Student,Bachelors,Bakers,ORD355878,23-07-2021,21500,92.62,15,COD,Cash,TRUE,1.7566,FALSE,25,Residential,Small,18367.62
+ID0501027460,No,Professional,Bachelors,Bakers,ORD357914,30-07-2021,16720,76.68,15,Prepaid,Credit Card,FALSE,0.8584,FALSE,29,Residential,Small,14288.68
+ID0131247270,Yes,Home Maker,Bachelors,Nickolson,ORD359121,13-06-2021,22175,66.13,15,Prepaid,Digital Wallet,TRUE,1.4195,TRUE,30,Commercial,Medium,18914.88
+ID1681675856,No,Blue-Collar,School,Thompson,ORD359903,23-05-2021,8770,77.74,25,COD,Cash,FALSE,1.1017,FALSE,23,Industrial,Large,6655.24
+ID0332546017,Yes,Manager,Bachelors,Bakers,ORD360393,16-06-2021,6810,73.36,15,Prepaid,Digital Wallet,FALSE,2.2444,TRUE,24,Residential,Small,5861.86
+ID1686719039,No,Blue Collar,Bachelors,Bakers,ORD360739,22-05-2021,30990,52.87,15,COD,Cash,FALSE,1.175,FALSE,32,Residential,Small,26394.37
+ID0664378466,Yes,Doctor,PhD,Nickolson,ORD361636,19-07-2021,13850,77.29,25,Prepaid,EMI,FALSE,1.0829,FALSE,29,Commercial,Medium,10464.79
+ID6197211592,Yes,Manager,Masters,Nickolson,ORD361759,18-06-2021,3320,,15,Prepaid,Credit Card,FALSE,1.2225,FALSE,25,Commercial,Medium,2888.09
+ID1463547033,No,Professional,Bachelors,Bakers,ORD361982,22-06-2021,8110,78.54,5,Prepaid,Credit Card,TRUE,1.2278,TRUE,24,Residential,Small,7783.04
+ID0589473307,No,Blue Collar,High School,Nickolson,ORD363515,14-06-2021,1525,76.29,10,Prepaid,Digital Wallet,TRUE,0.7873,TRUE,26,Commercial,Medium,1448.79
+ID2707985442,No,Student,Bachelors,Thompson,ORD363569,16-07-2021,23875,66.95,25,Prepaid,Debit Card,FALSE,1.4754,FALSE,31,Industrial,Large,17973.2
+ID0746909188,No,Manager,PhD,Thompson,ORD365002,03-07-2021,6740,94.11,25,COD,Cash,TRUE,1.0595,TRUE,23,Industrial,Large,5149.11
+ID0575434361,Yes,Professional,Bachelors,Thompson,ORD365314,14-07-2021,9200,82.37,10,Prepaid,Debit Card,TRUE,0.3877,FALSE,30,Industrial,Large,8362.37
+ID0252588294,Yes,Professional,Bachelors,Nickolson,ORD366469,30-05-2021,5910,74.5,15,COD,Cash,TRUE,0.5334,FALSE,24,Commercial,Medium,5098
+ID0847526574,Yes,Clerical,Bachelors,Nickolson,ORD369692,12-05-2021,1660,66.4,10,Prepaid,EMI,FALSE,1.045,FALSE,23,Commercial,Medium,1560.4
+ID0245493801,Yes,Professional,Bachelors,Bakers,ORD370065,20-05-2021,4405,65.72,10,COD,Cash,FALSE,0.8956,FALSE,25,Residential,Small,4030.22
+ID0634784123,Yes,Lawyer,PhD,Nickolson,ORD371242,08-05-2021,2600,57.82,10,,Cash,FALSE,0.8146,FALSE,31,Commercial,Medium,2397.82
+ID2191736653,Yes,Doctor,PhD,Nickolson,ORD371930,09-06-2021,26540,76.53,0,COD,Cash,TRUE,0.6924,TRUE,28,Commercial,Medium,26616.53
+ID3106293373,No,Lawyer,Masters,Thompson,ORD372277,10-06-2021,7550,65.44,15,Prepaid,Digital Wallet,FALSE,0.8282,TRUE,23,Industrial,Large,6482.94
+ID4544561904,Yes,Home Maker,Bachelors,Thompson,ORD374107,17-05-2021,27890,90.66,25,COD,Cash,TRUE,0.6714,TRUE,30,Industrial,Large,21008.16
+ID0575385079,No,Clerical,High School,Thompson,ORD374251,14-05-2021,4680,80.02,15,Prepaid,Debit Card,TRUE,0.857,TRUE,29,Industrial,Large,4058.02
+ID2776664746,Yes,Lawyer,Masters,Nickolson,ORD374508,18-07-2021,2085,84.92,10,Prepaid,Debit Card,FALSE,1.7652,FALSE,30,Commercial,Medium,1961.42
+ID0316413850,No,Professional,Masters,Nickolson,ORD376088,12-05-2021,7760,66.04,15,Prepaid,Credit Card,FALSE,1.536,FALSE,23,Commercial,Medium,6662.04
+ID0245533066,No,Manager,PhD,Bakers,ORD377837,07-07-2021,25390,107.58,10,Prepaid,Credit Card,TRUE,1.6595,TRUE,24,Residential,Small,22958.58
+ID0777839234,Yes,Clerical,High School,Nickolson,ORD379700,02-06-2021,17510,75.37,5,COD,Cash,TRUE,0.5513,TRUE,30,Commercial,Medium,16709.87
+ID2325395496,No,Manager,PhD,Nickolson,ORD379975,20-05-2021,96385,77.51,25,Prepaid,Credit Card,FALSE,1.059,FALSE,26,Commercial,Medium,72366.26
+ID3106294929,Yes,Doctor,PhD,Nickolson,ORD381266,08-06-2021,28260,65.39,10,Prepaid,Credit Card,TRUE,1.1745,TRUE,29,Commercial,Medium,25499.39
+ID0319157116,No,Lawyer,Masters,Thompson,ORD381638,17-05-2021,18075,79.49,10,Prepaid,Digital Wallet,FALSE,1.3749,TRUE,22,Industrial,Large,16346.99
+ID0591429491,Yes,Lawyer,Masters,Thompson,ORD381949,10-05-2021,22100,52.84,15,COD,Cash,FALSE,1.0406,FALSE,31,Industrial,Large,18837.84
+ID0624924254,Yes,Clerical,?,Thompson,ORD382455,04-07-2021,12240,61.59,10,COD,Debit Card,FALSE,0.9711,TRUE,29,Industrial,Large,11077.59
+ID0746912612,Yes,Manager,PhD,Thompson,ORD383461,04-06-2021,10660,63.64,25,Prepaid,Digital Wallet,TRUE,1.2033,TRUE,28,Industrial,Large,8058.64
+ID0247417828,Yes,Clerical,High School,Thompson,ORD383725,30-05-2021,15820,64.81,15,Prepaid,Digital Wallet,FALSE,1.0763,TRUE,28,Industrial,Large,13511.81
+ID0076459536,Yes,Professional,Bachelors,Nickolson,ORD386513,27-07-2021,17410,66.7,15,COD,Credit Card,FALSE,1.5055,TRUE,27,Commercial,Medium,14865.2
+ID2948774549,No,Manager,Masters,Bakers,ORD386882,06-05-2021,14845,67.75,10,Prepaid,EMI,FALSE,1.6145,FALSE,32,Residential,Small,13428.25
+ID0777789266,Yes,Professional,Bachelors,Bakers,ORD387574,14-07-2021,5220,79.92,5,Prepaid,EMI,FALSE,1.1552,FALSE,25,Residential,Small,5038.92
+ID1140277347,No,Student,?,Nickolson,ORD387808,21-07-2021,3750,92.94,15,,Credit Card,TRUE,0.8984,TRUE,27,Commercial,Medium,3280.44
+ID0591274456,No,Blue Collar,Bachelors,Bakers,ORD387878,15-05-2021,30520,79.13,15,COD,Cash,TRUE,1.0943,FALSE,29,Residential,Small,26021.13
+ID1217532720,Yes,Blue Collar,High School,Nickolson,ORD389541,10-07-2021,19670,103.7,10,Prepaid,Credit Card,TRUE,1.244,TRUE,29,Commercial,Medium,17806.7
+ID2768639318,Yes,Blue Collar,High School,Nickolson,ORD393183,20-07-2021,14320,100.74,15,Prepaid,Credit Card,TRUE,0.7058,TRUE,30,Commercial,Medium,12272.74
+ID0777835311,Yes,Manager,High School,Thompson,ORD394848,02-06-2021,4660,69.11,10,COD,Credit Card,FALSE,1.327,TRUE,23,Industrial,Large,4263.11
+ID4419686624,Yes,Lawyer,Masters,Thompson,ORD395518,06-07-2021,9080,62.71,10,Prepaid,Digital Wallet,FALSE,1.1621,TRUE,30,Industrial,Large,8234.71
+ID0278912937,No,Clerical,High School,Nickolson,ORD397354,20-05-2021,15660,87.96,10,Prepaid,Digital Wallet,TRUE,0.3585,TRUE,24,Commercial,Medium,14181.96
+ID0581750598,Yes,Student,High School,Thompson,ORD401278,07-07-2021,4620,65.7,10,Prepaid,Digital Wallet,FALSE,1.3448,TRUE,25,Industrial,Large,4223.7
+ID6167441029,Yes,Clerical,High School,Nickolson,ORD401780,01-06-2021,22800,64.78,10,Prepaid,Credit Card,FALSE,1.3422,FALSE,31,Commercial,Medium,20584.78
+ID6167440966,Yes,Home Maker,School,Nickolson,ORD403400,16-06-2021,7900,77.82,0,COD,Cash,TRUE,0.623,TRUE,32,Commercial,Medium,7977.82
+ID0247417667,Yes,Manager,Masters,Thompson,ORD404813,21-05-2021,7050,74.5,10,Prepaid,Digital Wallet,TRUE,0.5407,TRUE,28,Industrial,Large,6419.5
+ID0298046598,No,Home Maker,Bachelors,Thompson,ORD405547,01-06-2021,4685,65.27,25,COD,Cash,FALSE,1.3236,FALSE,29,Industrial,Large,3579.02
+ID5422000176,No,Lawyer,Masters,Thompson,ORD406814,17-05-2021,21730,69.68,10,COD,Cash,FALSE,1.459,FALSE,24,Industrial,Large,19626.68
+ID1131986163,No,Student,Bachelors,Bakers,ORD407964,03-06-2021,26730,65.9,10,Prepaid,Debit Card,FALSE,1.0694,FALSE,30,Residential,Small,24122.9
+ID0702456085,No,Blue Collar,School,Nickolson,ORD407975,16-05-2021,19205,66.23,15,Prepaid,Digital Wallet,TRUE,1.4381,TRUE,30,Commercial,Medium,16390.48
+ID1463620794,Yes,Lawyer,PhD,Nickolson,ORD408988,23-07-2021,25025,58.37,10,COD,Cash,FALSE,0.7236,FALSE,23,Commercial,Medium,22580.87
+ID2700682442,No,Blue-Collar,School,Nickolson,ORD409115,27-05-2021,7725,65.28,10,COD,Cash,FALSE,0.4785,FALSE,30,Commercial,Medium,7017.78
+ID1560149473,Yes,Professional,Masters,Thompson,ORD409233,15-06-2021,11475,48.71,10,COD,Cash,FALSE,0.8493,FALSE,28,Industrial,Large,10376.21
+ID4927643641,No,Lawyer,Masters,Bakers,ORD412934,27-05-2021,6015,63.9,10,COD,Cash,TRUE,0.9469,TRUE,29,Residential,Small,5477.4
+ID0245493802,No,Manager,Bachelors,Thompson,ORD413882,24-06-2021,12180,67.47,10,Prepaid,Debit Card,TRUE,1.6672,TRUE,23,Industrial,Large,11029.47
+ID1466671804,No,Blue Collar,Bachelors,Thompson,ORD414145,08-07-2021,8725,87.96,15,COD,Cash,TRUE,1.6087,FALSE,26,Industrial,Large,7504.21
+ID0710001162,No,Lawyer,Masters,Bakers,ORD414419,07-05-2021,6460,81.31,15,Prepaid,Digital Wallet,TRUE,1.8081,TRUE,25,Residential,Small,5572.31
+ID1496246606,Yes,Blue Collar,High School,Bakers,ORD417453,10-05-2021,22430,78.69,15,COD,Cash,TRUE,0.5703,TRUE,29,Residential,Small,19144.19
+ID0767733196,Yes,Blue-Collar,School,Thompson,ORD420200,22-07-2021,865916,92.9,15,COD,Cash,TRUE,0.8274,TRUE,29,Industrial,Large,736121.5
+ID4740821319,No,Doctor,PhD,Thompson,ORD420507,12-05-2021,22000,,15,Prepaid,Digital Wallet,FALSE,73.8324,TRUE,28,Industrial,Large,18763.58
+ID0589704716,No,Blue Collar,Bachelors,Nickolson,ORD420807,27-05-2021,8630,91.54,10,Prepaid,Debit Card,TRUE,0.7512,TRUE,28,Commercial,Medium,7858.54
+ID0103299651,No,Manager,Bachelors,Thompson,ORD420866,12-06-2021,5060,63.08,10,Prepaid,Digital Wallet,TRUE,1.0333,TRUE,23,Industrial,Large,4617.08
+ID6167441003,Yes,Student,School,Thompson,ORD421797,23-05-2021,11350,71.61,25,Prepaid,Credit Card,FALSE,0.7037,FALSE,23,Industrial,Large,8584.11
+ID2180785618,Yes,Lawyer,Masters,Thompson,ORD424374,19-07-2021,23080,88.87,25,COD,Cash,TRUE,1.873,FALSE,29,Industrial,Large,17398.87
+ID0233314845,Yes,Manager,Bachelors,Nickolson,ORD426744,11-06-2021,12135,82.48,25,COD,Cash,TRUE,1.5668,FALSE,26,Commercial,Medium,9183.73
+ID4769265355,No,Lawyer,Masters,Bakers,ORD428011,03-06-2021,2455,71.64,5,Prepaid,Credit Card,FALSE,1.8481,FALSE,24,Residential,Small,2403.89
+ID0781082267,No,Professional,Masters,Nickolson,ORD428471,18-05-2021,22130,76.48,0,COD,Cash,FALSE,1.1345,FALSE,24,Commercial,Medium,22206.48
+ID6231506306,Yes,Professional,Bachelors,Nickolson,ORD428910,10-06-2021,1655,63.27,25,Prepaid,Debit Card,FALSE,0.525,FALSE,24,Commercial,Medium,1304.52
+ID0247010166,Yes,Lawyer,Masters,Nickolson,ORD430536,18-05-2021,13595,64.53,15,Prepaid,Credit Card,FALSE,0.6249,FALSE,23,Commercial,Medium,11620.28
+ID3390561255,Yes,Student,High School,Bakers,ORD431050,03-07-2021,11130,106.46,15,Prepaid,Digital Wallet,TRUE,1.1726,TRUE,30,Residential,Small,9566.96
+ID0777834973,Yes,Professional,Bachelors,Nickolson,ORD431829,08-05-2021,6750,66.52,15,COD,Cash,FALSE,0.1542,FALSE,22,Commercial,Medium,5804.02
+ID0277362770,No,Clerical,High School,Thompson,ORD434570,11-06-2021,9070,74.52,15,Prepaid,Digital Wallet,TRUE,0.3712,TRUE,28,Industrial,Large,7784.02
+ID0598399382,Yes,Manager,Bachelors,Bakers,ORD435271,05-06-2021,6630,84.08,25,COD,Cash,TRUE,1.6467,FALSE,28,Residential,Small,5056.58
+ID0298099723,Yes,Blue Collar,High School,Bakers,ORD436067,17-07-2021,7900,64.81,10,COD,Debit Card,FALSE,1.0661,TRUE,24,Residential,Small,7174.81
+ID3862394072,Yes,Professional,Bachelors,Nickolson,ORD436478,28-06-2021,20200,65.84,10,Prepaid,EMI,FALSE,0.8855,FALSE,28,Commercial,Medium,18245.84
+ID0814816061,Yes,Blue Collar,High School,Thompson,ORD439316,01-06-2021,11220,78.33,10,Prepaid,Digital Wallet,TRUE,0.7319,TRUE,27,Industrial,Large,10176.33
+ID0702363476,Yes,Clerical,High School,Thompson,ORD439821,15-05-2021,2390,76.36,15,Prepaid,Digital Wallet,FALSE,1.1514,TRUE,31,Industrial,Large,2107.86
+ID0529157848,No,Lawyer,Masters,Nickolson,ORD442067,16-06-2021,2655,64.78,10,Prepaid,Debit Card,FALSE,0.6615,FALSE,27,Commercial,Medium,2454.28
+ID0122752291,No,Manager,Masters,Nickolson,ORD442197,26-05-2021,12350,93.09,25,Prepaid,Credit Card,TRUE,0.8081,TRUE,28,Commercial,Medium,9355.59
+ID0287629447,No,Professional,PhD,Nickolson,ORD442452,17-06-2021,43520,62.93,15,Prepaid,Credit Card,TRUE,0.8949,TRUE,25,Commercial,Medium,37054.93
+ID3970811101,Yes,Student,High School,Bakers,ORD449130,17-06-2021,20200,46.35,25,Prepaid,Debit Card,FALSE,0.7706,FALSE,28,Residential,Small,15196.35
+ID2020835025,No,Student,High School,Thompson,ORD449772,20-07-2021,1619,106.26,15,Prepaid,Digital Wallet,TRUE,1.5098,TRUE,30,Industrial,Large,1482.41
+ID6167231003,Yes,Blue-Collar,School,Bakers,ORD449901,11-06-2021,19710,51.84,10,COD,Cash,FALSE,1.1126,FALSE,30,Residential,Small,17790.84
+ID2006034703,No,Manager,Bachelors,Bakers,ORD450897,11-07-2021,17530,79.05,0,COD,Cash,FALSE,1.0833,FALSE,31,Residential,Small,17609.05
+ID0317535746,Yes,Clerical,High School,Thompson,ORD451441,10-07-2021,8790,85.53,5,,Cash,FALSE,1.8957,FALSE,24,Industrial,Large,8436.03
+ID1985551131,No,Home Maker,PhD,Bakers,ORD452012,26-07-2021,14065,77.64,25,Prepaid,Credit Card,FALSE,1.0406,FALSE,23,Residential,Small,10626.39
+ID0589421428,No,Professional,High School,Thompson,ORD452642,08-06-2021,9145,62.41,10,Prepaid,Debit Card,TRUE,0.7577,TRUE,31,Industrial,Large,8292.91
+ID0579501193,Yes,Lawyer,Masters,Bakers,ORD453282,13-07-2021,15275,91.46,15,Prepaid,Digital Wallet,TRUE,1.62,TRUE,23,Residential,Small,13075.21
+ID0054558290,Yes,Clerical,Bachelors,Nickolson,ORD453377,25-05-2021,23450,77.17,5,COD,Cash,TRUE,0.4368,TRUE,27,Commercial,Medium,22354.67
+ID0245531235,No,Lawyer,Masters,Nickolson,ORD453668,08-05-2021,672832,62.82,25,Prepaid,EMI,FALSE,0.286,FALSE,30,Commercial,Medium,504686.82
+ID3146808064,No,Clerical,High School,Nickolson,ORD454128,13-05-2021,5885,62.65,10,Prepaid,Digital Wallet,FALSE,0.7673,TRUE,26,Commercial,Medium,5359.15
+ID0758612178,Yes,Lawyer,Masters,Thompson,ORD455246,27-05-2021,20985,81.66,15,COD,Cash,FALSE,1.6071,FALSE,31,Industrial,Large,17918.91
+ID1152560936,Yes,Blue Collar,Bachelors,Bakers,ORD456259,20-06-2021,32745,67.8,15,Prepaid,Debit Card,FALSE,1.418,FALSE,28,Residential,Small,27901.05
+ID0250480602,Yes,Blue Collar,School,Thompson,ORD457758,06-05-2021,12090,66.73,25,Prepaid,EMI,FALSE,0.9308,FALSE,23,Industrial,Large,9134.23
+ID5299390820,No,Blue Collar,School,Nickolson,ORD457767,06-07-2021,23385,76.82,0,Prepaid,EMI,FALSE,0.8593,FALSE,29,Commercial,Medium,23461.82
+ID3144992704,Yes,Blue Collar,High School,Bakers,ORD460883,01-06-2021,24225,82.39,0,Prepaid,Debit Card,TRUE,1.7347,TRUE,26,Residential,Small,24307.39
+ID6197211197,Yes,Clerical,School,Thompson,ORD462194,21-05-2021,13320,62.26,15,Prepaid,Credit Card,TRUE,0.6093,TRUE,30,Industrial,Large,11384.26
+ID0844501069,Yes,Clerical,High School,Bakers,ORD463025,26-07-2021,15290,77.3,15,Prepaid,Digital Wallet,TRUE,0.697,TRUE,23,Residential,Small,13073.8
+ID2279153657,Yes,Student,School,Thompson,ORD463964,21-05-2021,6890,88.33,5,Prepaid,Debit Card,TRUE,1.8719,FALSE,32,Industrial,Large,6633.83
+ID0598401577,No,Lawyer,Masters,Thompson,ORD464981,24-05-2021,20935,67.26,15,Prepaid,Credit Card,FALSE,1.6327,FALSE,27,Industrial,Large,17862.01
+ID2069604238,Yes,Student,High School,Nickolson,ORD465360,27-05-2021,28255,80.72,25,Prepaid,Digital Wallet,TRUE,1.3443,TRUE,27,Commercial,Medium,21271.97
+ID0579408070,Yes,Professional,Bachelors,Thompson,ORD466433,14-05-2021,7535,66.54,25,Prepaid,Debit Card,FALSE,1.1956,FALSE,29,Industrial,Large,5717.79
+ID4283908179,Yes,Blue Collar,School,Thompson,ORD468449,12-07-2021,29580,94.73,5,COD,Cash,TRUE,0.845,TRUE,25,Industrial,Large,28195.73
+ID0277118918,Yes,Manager,Bachelors,Nickolson,ORD468473,26-05-2021,18200,94.13,10,Prepaid,EMI,TRUE,0.8596,TRUE,31,Commercial,Medium,16474.13
+ID4313862247,No,Lawyer,Masters,Bakers,ORD469769,04-07-2021,9510,61.44,25,Prepaid,Digital Wallet,FALSE,0.8761,TRUE,32,Residential,Small,7193.94
+ID0333901582,Yes,Manager,Bachelors,Thompson,ORD469852,15-05-2021,7330,63.11,15,Prepaid,Debit Card,FALSE,0.6412,FALSE,27,Industrial,Large,6293.61
+ID0319157184,No,Lawyer,Masters,Nickolson,ORD473288,26-06-2021,33440,62.73,25,Prepaid,EMI,TRUE,0.9173,TRUE,29,Commercial,Medium,25142.73
+ID0153681683,Yes,Manager,High School,Nickolson,ORD473815,17-05-2021,8490,66.07,15,Prepaid,Debit Card,FALSE,0.8182,FALSE,22,Commercial,Medium,7282.57
+ID3218226983,Yes,Manager,Bachelors,Nickolson,ORD474833,13-05-2021,12690,64.79,25,Prepaid,Digital Wallet,FALSE,1.6211,TRUE,28,Commercial,Medium,9582.29
+ID4245791607,Yes,Blue Collar,High School,Nickolson,ORD475510,12-06-2021,386776,59.7,10,Prepaid,Credit Card,TRUE,0.1282,TRUE,26,Commercial,Medium,348158.1
+ID2473002367,Yes,Professional,Bachelors,Bakers,ORD476072,29-07-2021,17765,67.96,15,COD,Debit Card,FALSE,1.5533,TRUE,26,Residential,Small,15168.21
+ID1217532917,No,Blue Collar,High School,Nickolson,ORD480424,21-05-2021,5590,77.5,25,,Credit Card,TRUE,0.6512,TRUE,32,Commercial,Medium,4270
+ID6167266626,No,Manager,PhD,Thompson,ORD481148,12-06-2021,11895,78.59,15,Prepaid,Debit Card,TRUE,1.0823,TRUE,32,Industrial,Large,10189.34
+ID0377544391,Yes,Blue Collar,High School,Nickolson,ORD481651,11-05-2021,23880,90.62,15,Prepaid,Digital Wallet,TRUE,0.3409,TRUE,24,Commercial,Medium,20388.62
+ID2189162941,Yes,Lawyer,Masters,Nickolson,ORD481832,31-05-2021,14070,73.33,15,COD,Cash,FALSE,0.9757,FALSE,23,Commercial,Medium,12032.83
+ID0581764017,No,Home Maker,High School,Thompson,ORD489366,23-06-2021,4685,51.04,25,Prepaid,Debit Card,FALSE,1.3906,FALSE,29,Industrial,Large,3564.79
+ID3146808087,Yes,Blue Collar,High School,Thompson,ORD490527,21-07-2021,16580,110.36,0,Prepaid,EMI,TRUE,1.9558,TRUE,24,Industrial,Large,16690.36
+ID0846546861,Yes,Home Maker,High School,Thompson,ORD491234,30-07-2021,9100,102.69,25,Prepaid,Digital Wallet,TRUE,0.9407,TRUE,25,Industrial,Large,6927.69
+ID0417273054,No,Student,School,Thompson,ORD492107,06-06-2021,17410,64.76,15,Prepaid,Credit Card,FALSE,1.0053,FALSE,25,Industrial,Large,14863.26
+ID0575392033,Yes,Clerical,School,Thompson,ORD493666,06-05-2021,18300,74.75,0,COD,Cash,FALSE,0.9039,FALSE,25,Industrial,Large,18374.75
+ID0457365601,No,Blue Collar,Bachelors,Nickolson,ORD494241,15-07-2021,16390,103.7,0,COD,Cash,TRUE,0.9247,FALSE,29,Commercial,Medium,16493.7
+ID0356449717,No,Blue Collar,High School,Nickolson,ORD494479,25-05-2021,10670,65.87,10,Prepaid,Debit Card,FALSE,1.0949,FALSE,25,Commercial,Medium,9668.87
+ID6167417944,No,Professional,High School,Bakers,ORD495312,14-07-2021,27400,103.11,5,Prepaid,Credit Card,TRUE,1.0423,TRUE,30,Residential,Small,26133.11
+ID2314545797,No,Lawyer,Masters,Bakers,ORD496181,26-07-2021,461736,87.31,25,Prepaid,Credit Card,FALSE,2.0115,FALSE,29,Residential,Small,346389.31
+ID4294210520,No,Blue Collar,Bachelors,Nickolson,ORD496722,10-05-2021,31900,79.78,10,Prepaid,Digital Wallet,TRUE,66.6483,TRUE,25,Commercial,Medium,28789.78
+ID4313862248,No,Blue Collar,School,Thompson,ORD497037,11-05-2021,7910,50.65,25,Prepaid,Digital Wallet,FALSE,0.9512,TRUE,28,Industrial,Large,5983.15
+ID0248746951,No,Professional,Bachelors,Thompson,ORD497096,23-07-2021,16980,103.77,5,,Cash,TRUE,0.9663,FALSE,27,Industrial,Large,16234.77
+ID0248746737,Yes,Clerical,?,Thompson,ORD497160,20-05-2021,20500,66.24,10,Prepaid,Debit Card,FALSE,1.331,FALSE,25,Industrial,Large,18516.24
+ID2096325801,Yes,Clerical,High School,Thompson,ORD498207,10-06-2021,3750,80.04,10,Prepaid,Credit Card,TRUE,0.8519,TRUE,30,Industrial,Large,3455.04
+ID0846545708,No,Professional,Bachelors,Bakers,ORD498590,18-06-2021,6630,67,25,Prepaid,EMI,FALSE,1.0303,FALSE,25,Residential,Small,5039.5
+ID0052450483,Yes,Lawyer,Masters,Nickolson,ORD499540,23-05-2021,14685,59.86,10,Prepaid,EMI,FALSE,1.0052,TRUE,26,Commercial,Medium,13276.36
+ID5002592919,Yes,Doctor,PhD,Nickolson,ORD007249,21-05-2021,6535,60.64,15,COD,Credit Card,FALSE,1.088,FALSE,26,Commercial,Medium,5615.39
+ID0247018750,Yes,Blue Collar,High School,Thompson,ORD007904,29-05-2021,6865,96,15,COD,Cash,TRUE,1.3612,FALSE,24,Industrial,Large,5931.25
+ID3130999251,No,Blue Collar,School,Thompson,ORD008127,30-07-2021,6770,77.13,5,COD,Debit Card,FALSE,0.254,FALSE,31,Industrial,Large,6508.63
+ID2187983888,Yes,Professional,Bachelors,Nickolson,ORD010057,18-05-2021,3085,53.47,10,Prepaid,EMI,FALSE,1.3575,FALSE,27,Commercial,Medium,2829.97
+ID3516648756,Yes,Blue Collar,High School,Nickolson,ORD010677,18-07-2021,730,108.58,10,COD,Credit Card,TRUE,1.6767,TRUE,28,Commercial,Medium,765.58
+ID0363973195,Yes,Blue Collar,High School,Bakers,ORD010913,01-06-2021,14175,55.71,10,Prepaid,EMI,FALSE,94.9734,FALSE,27,Residential,Small,12813.21
+ID6167417972,Yes,Blue Collar,High School,Thompson,ORD014742,29-05-2021,15130,66.9,10,Prepaid,Digital Wallet,FALSE,1.0975,FALSE,30,Industrial,Large,13683.9
