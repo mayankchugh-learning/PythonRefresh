@@ -69,17 +69,17 @@ def predict_insurance_charge(age, bmi, children,sex, smoker, region):
 
 # Set up UI components for input and output
 
-age_input = gr.Number(label='Age')
-bmi_input = gr.Number(label='BMI')
-children_input = gr.Number(label='Children')
-sex_input = gr.Dropdown(['female','male'],label='Sex')
-smoker_input = gr.Dropdown(['yes','no'],label='Smoker')
+age_input = gr.Number(label='age')
+bmi_input = gr.Number(label='bmi')
+children_input = gr.Number(label='children')
+sex_input = gr.Dropdown(['female','male'],label='sex')
+smoker_input = gr.Dropdown(['yes','no'],label='smoker')
 region_input = gr.Dropdown(
     ['southeast', 'southwest', 'northwest', 'northeast'],
-    label='Region'
+    label='region'
 )
 
-model_output = gr.Label(label="HealthyLife Insurance Charge Prediction - Predict the cost for your Medical Insurance!")
+model_output = gr.Label(label="Insurance Charges")
 
 # Create the interface
 demo = gr.Interface(
